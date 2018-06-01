@@ -7,10 +7,12 @@
 import React, { Component } from "react";
 import { Platform, StyleSheet, StatusBar, Text, View } from "react-native";
 import { StackNavigator } from "react-navigation";
-
+import SplashScreen from "react-native-splash-screen";
 import Screen from "./app/components/Screen";
 import Swiper from "./app/components/Swiper";
 import Boiler from "./app/components/Boiler";
+import Main from "./app/components/Main";
+import Card_one from "./app/components/Card_one";
 
 /*const instructions = Platform.select({
   ios: "Press Cmd+R to reload,\n" + "Cmd+D or shake for dev menu",
@@ -27,11 +29,14 @@ class Home extends Component<{}> {
     },
     header: null
   };
+  componentDidMount() {
+    SplashScreen.hide();
+  }
   render() {
     return (
       <View style={styles.container}>
         <StatusBar barStyle="light-content" backgroundColor="#16a085" />
-        <Screen navigation={this.props.navigation} />
+        <Main navigation={this.props.navigation} />
       </View>
     );
   }
@@ -60,6 +65,18 @@ export default App = StackNavigator({
     screen: Boiler,
     navigationOptions: {
       title: "Boiler"
+    }
+  },
+  Main: {
+    screen: Main,
+    navigationOptions: {
+      title: "BeYou"
+    }
+  },
+  Card_one:{
+    screen: Card_one,
+    navigationOptions: {
+      title: "Card_one"
     }
   }
 });

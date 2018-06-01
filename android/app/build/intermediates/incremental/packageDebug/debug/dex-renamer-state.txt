@@ -1,0 +1,4 @@
+#Fri Jun 01 20:36:42 IST 2018
+base.0=/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

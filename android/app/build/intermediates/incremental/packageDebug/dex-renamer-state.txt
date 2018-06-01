@@ -1,0 +1,4 @@
+#Thu May 31 23:07:12 IST 2018
+base.0=/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -18,7 +18,7 @@ export default class Screen extends Component {
         {/* First screen */}
         <View style={styles.slide}>
           <Icon name="ios-home" {...iconStyles} />
-          <Text style={styles.header}>one</Text>
+          <Text style={styles.header}>Ashwin</Text>
           <Text style={styles.text}>one</Text>
         </View>
         {/* Second screen */}
@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
     flex: 1, // Take up all screen
     justifyContent: "center", // Center vertically
     alignItems: "center", // Center horizontally
-    backgroundColor: "#16a085"
+    backgroundColor: "#b89baf"
   },
   // Header styles
   header: {
