@@ -45,12 +45,17 @@ export default class Main extends Component {
                   borderColor: '#FFFFFF',
                   alignItems:'center',
                   padding:10}}>
-                    <Text style={{ color: '#fff', fontSize: 48 }}>
-                      Be You
-                    </Text>
 
-                    <Text style={{ color: '#fff', fontSize: 24, fontStyle:'italic',fontFamily:'monospace'}}>
-                      Real You. The Best You
+                  <View style={{flexDirection:'row',alignItems: 'center'}}>
+                    <Image source={require('./logo.png')}
+                    style={{width: 72, height: 72}} />
+                      <Text style={{ color: '#fff', fontSize: 48,fontFamily:'sans-serif-condensed' }}>
+                        Be You
+                      </Text>
+                  </View>
+
+                    <Text style={{ color: '#fff', fontSize: 24, fontStyle:'italic',fontFamily:'sans-serif-thin'}}>
+                      Real You.The Best You.
                     </Text>
                 </View>
                 </View>
