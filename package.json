@@ -13,7 +13,8 @@
 		"react-native-simple-card-view": "^0.3.0",
 		"react-native-splash-screen": "^3.0.7",
 		"react-native-vector-icons": "^4.4.2",
-		"react-navigation": "^1.0.0-beta.13"
+		"react-navigation": "^1.0.0-beta.13",
+		"watchman": "^1.0.0"
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",

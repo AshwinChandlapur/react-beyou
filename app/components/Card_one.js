@@ -26,9 +26,8 @@ export default class Card_one extends Component {
       <Swiper navigation={this.props.navigation}>
         {/* First screen */}
         <View style={styles.slide}>
-          <Icon name="ios-home" {...iconStyles} />
-          <Text style={styles.header}>Tip1</Text>
-          <Text style={styles.text}>one</Text>
+          <Text style={styles.header}>Soak a few drops of rose water on Two Cotton Pads for 2-3 Minutes.</Text>
+          <Text style={styles.text}>Apply directly to affected Area. Repeat Twice Daily until results are visible.</Text>
         </View>
         {/* Second screen */}
         <View style={styles.slide}>
@@ -68,9 +67,10 @@ const styles = StyleSheet.create({
   header: {
     color: "#FFFFFF",
     fontFamily: "Avenir",
-    fontSize: 30,
+    fontSize: 25,
     fontWeight: "bold",
-    marginVertical: 15
+    textAlign: "center",
+    marginVertical: 10
   },
   // Text below header
   text: {

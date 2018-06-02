@@ -12,6 +12,7 @@ import Screen from "./app/components/Screen";
 import Swiper from "./app/components/Swiper";
 import Boiler from "./app/components/Boiler";
 import Main from "./app/components/Main";
+import Face from "./app/components/Face";
 import Card_one from "./app/components/Card_one";
 
 /*const instructions = Platform.select({
@@ -78,7 +79,13 @@ export default App = StackNavigator({
     navigationOptions: {
       title: "Card_one"
     }
-  }
+  },
+  Face:{
+    screen: Face,
+    navigationOptions: {
+      title: "Face"
+    }
+  },
 });
 
 const styles = StyleSheet.create({
