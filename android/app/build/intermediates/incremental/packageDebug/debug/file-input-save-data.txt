@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Jun 02 13:33:27 IST 2018
+#Sun Jun 03 11:29:26 IST 2018
 5.base=/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/armeabi-v7a/libfb.so
 32.set=NATIVE_RESOURCE

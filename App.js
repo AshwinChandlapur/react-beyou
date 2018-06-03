@@ -10,9 +10,9 @@ import { StackNavigator } from "react-navigation";
 import SplashScreen from "react-native-splash-screen";
 import Screen from "./app/components/Screen";
 import Swiper from "./app/components/Swiper";
-import Boiler from "./app/components/Boiler";
 import Main from "./app/components/Main";
-import Face from "./app/components/Face";
+import Face from "./app/components/Cards/Face";
+import Hair from "./app/components/Cards/Hair";
 import Card_one from "./app/components/Card_one";
 
 /*const instructions = Platform.select({
@@ -62,12 +62,6 @@ export default App = StackNavigator({
       title: "Swiper"
     }
   },
-  Boiler: {
-    screen: Boiler,
-    navigationOptions: {
-      title: "Boiler"
-    }
-  },
   Main: {
     screen: Main,
     navigationOptions: {
@@ -86,6 +80,12 @@ export default App = StackNavigator({
       title: "Face"
     }
   },
+  Hair:{
+    screen: Hair,
+    navigationOptions: {
+      title: "Hair"
+    }
+  }
 });
 
 const styles = StyleSheet.create({

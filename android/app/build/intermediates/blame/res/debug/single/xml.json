@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/react-native-0.49.3.aar/de465eb5ee225508dd414947c11ddd13/res/xml/preferences.xml"
+    },
+    {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/res/xml/preferences.xml"
     }

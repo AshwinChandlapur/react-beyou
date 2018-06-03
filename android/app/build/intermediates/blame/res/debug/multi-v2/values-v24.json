@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {

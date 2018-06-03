@@ -14,9 +14,46 @@ import {
 } from "react-native";
 import { CardViewWithImage } from 'react-native-simple-card-view'
 import Card_one from "./Card_one";
-import Face from "./Face";
+import Face from "./Cards/Face";
+import Hair from "./Cards/Hair";
 import Boiler from "./Boiler";
 import { StackNavigator } from "react-navigation";
+function getRandomInt(max) {
+  return Math.floor(Math.random() * Math.floor(max));
+}
+const quote1 = "Beauty has so many forms, and the most beautiful thing is confidence and loving yourself.";
+const quote2 = "The future belongs to those who believe in the beauty of their dreams.";
+const quote3 = "Beauty is power; a smile is its sword.";
+const quote4 = "Fashion is architecture: it is a matter of proportions";
+const quote5 = "Let your soul stand cool and composed before a million universes.";
+const quote6 = "Life isn't about finding yourself. Life is about creating yourself.";
+const quote7 = "Beauty is being comfortable and confident in your own skin.";
+const quote_string="";
+switch (getRandomInt(7)) {
+  case 0:
+    quote_string = quote1;
+    break;
+    case 1:
+    quote_string = quote2;
+      break;
+      case 2:
+      quote_string = quote3;
+        break;
+        case 3:
+        quote_string = quote4;
+          break;
+          case 4:
+          quote_string = quote5;
+            break;
+            case 5:
+            quote_string = quote6;
+              break;
+              case 6:
+              quote_string = quote7;
+                break;
+  default:
+        quote_string = quote7;
+}
 export default class Main extends Component {
 
   //to disable Status Bar
@@ -28,13 +65,17 @@ export default class Main extends Component {
     header: null ,
   };
 
+
+
+
+
   render() {
     const { navigate } = this.props.navigation;
     return(
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
       <ImageBackground
-      source={require('./yellow_back.jpg')}
+      source={require('./imgs/yellow_back.jpg')}
       style={styles.headerImage}>
 
       <View style={{backgroundColor: 'rgba(0,0,0,.6)',
@@ -48,15 +89,16 @@ export default class Main extends Component {
         padding:10}}>
 
         <View style={{flexDirection:'row',alignItems: 'center'}}>
-        <Image source={require('./logo.png')}
+        <Image source={require('/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/logo.png')}
+        style={{width: 72, height: 72}} />
+        <Image source={require('./imgs/logo.png')}
         style={{width: 72, height: 72}} />
         <Text style={{ color: '#fff', fontSize: 48,fontFamily:'sans-serif-condensed' }}>
         Be You
         </Text>
         </View>
-
-        <Text style={{ color: '#fff', fontSize: 24, fontStyle:'italic',fontFamily:'sans-serif-thin'}}>
-        Real You.The Best You.
+        <Text style={{ color: '#fff', fontSize: 18, fontStyle:'italic',fontFamily:'sans-serif-thin',textAlign:'center'}}>
+        {quote_string}
         </Text>
         </View>
         </View>
@@ -67,7 +109,7 @@ export default class Main extends Component {
 
         <TouchableOpacity onPress={() => this.props.navigation.navigate("Face")} style={styles.cardImages}>
         <ImageBackground
-        source={require('./card1.jpg')}
+        source={require('./imgs/card1.jpg')}
         style={styles.cardImages}>
         <View style={{backgroundColor: 'rgba(0,0,0,.6)',
         alignItems:'center',
@@ -89,33 +131,11 @@ export default class Main extends Component {
           </TouchableOpacity>
 
 
-          <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
-          <ImageBackground
-          source={require('./card2.jpg')}
-          style={styles.cardImages}>
-          <View style={{backgroundColor: 'rgba(0,0,0,.6)',
-          alignItems:'center',
-          justifyContent:'center'}}>
-
-          <View style={{border:1,
-            borderWidth: 2,
-            borderColor: '#FFFFFF',
-            alignItems:'center',
-            padding:5}}>
-            <Text style={{ color: '#fff', fontSize: 48,fontFamily:'sans-serif-condensed' }}>
-            Arms & Feet
-            </Text>
-
-            </View>
-            </View>
-
-            </ImageBackground>
-            </TouchableOpacity>
 
 
-            <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+            <TouchableOpacity onPress={() => this.props.navigation.navigate("Hair")} style={styles.cardImages}>
             <ImageBackground
-            source={require('./card3.jpg')}
+            source={require('./imgs/card3.jpg')}
             style={styles.cardImages}>
             <View style={{backgroundColor: 'rgba(0,0,0,.6)',
             alignItems:'center',
@@ -139,7 +159,7 @@ export default class Main extends Component {
 
               <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
               <ImageBackground
-              source={require('./card4.jpg')}
+              source={require('./imgs/card4.jpg')}
               style={styles.cardImages}>
               <View style={{backgroundColor: 'rgba(0,0,0,.6)',
               alignItems:'center',
@@ -163,7 +183,7 @@ export default class Main extends Component {
 
                 <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
                 <ImageBackground
-                source={require('./card5.jpg')}
+                source={require('./imgs/card5.jpg')}
                 style={styles.cardImages}>
                 <View style={{backgroundColor: 'rgba(0,0,0,.6)',
                 alignItems:'center',
@@ -183,6 +203,30 @@ export default class Main extends Component {
 
                   </ImageBackground>
                   </TouchableOpacity>
+
+
+                  <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+                  <ImageBackground
+                  source={require('./imgs/card2.jpg')}
+                  style={styles.cardImages}>
+                  <View style={{backgroundColor: 'rgba(0,0,0,.6)',
+                  alignItems:'center',
+                  justifyContent:'center'}}>
+
+                  <View style={{border:1,
+                    borderWidth: 2,
+                    borderColor: '#FFFFFF',
+                    alignItems:'center',
+                    padding:5}}>
+                    <Text style={{ color: '#fff', fontSize: 48,fontFamily:'sans-serif-condensed' }}>
+                    Arms & Feet
+                    </Text>
+
+                    </View>
+                    </View>
+
+                    </ImageBackground>
+                    </TouchableOpacity>
 
 
 
@@ -295,6 +339,7 @@ export default class Main extends Component {
       Main: { screen: Main },
       Card_one: { screen: Card_one },
       Face: { screen: Face },
+      Hair: { screen: Hair },
       Boiler:{screen:Boiler}
     });
 
