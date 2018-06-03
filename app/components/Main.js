@@ -16,6 +16,9 @@ import { CardViewWithImage } from 'react-native-simple-card-view'
 import Card_one from "./Card_one";
 import Face from "./Cards/Face";
 import Hair from "./Cards/Hair";
+import Skin from "./Cards/Skin";
+import Eyes from "./Cards/Eyes";
+import ArmsAndFeet from "./Cards/ArmsAndFeet";
 import Boiler from "./Boiler";
 import { StackNavigator } from "react-navigation";
 function getRandomInt(max) {
@@ -89,8 +92,8 @@ export default class Main extends Component {
         padding:10}}>
 
         <View style={{flexDirection:'row',alignItems: 'center'}}>
-        <Image source={require('/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/logo.png')}
-        style={{width: 72, height: 72}} />
+        {/*}<Image source={require('/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/logo.png')}
+        style={{width: 72, height: 72}} />*/}
         <Image source={require('./imgs/logo.png')}
         style={{width: 72, height: 72}} />
         <Text style={{ color: '#fff', fontSize: 48,fontFamily:'sans-serif-condensed' }}>
@@ -157,7 +160,7 @@ export default class Main extends Component {
               </TouchableOpacity>
 
 
-              <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+              <TouchableOpacity onPress={() => this.props.navigation.navigate("Skin")} style={styles.cardImages}>
               <ImageBackground
               source={require('./imgs/card4.jpg')}
               style={styles.cardImages}>
@@ -181,7 +184,7 @@ export default class Main extends Component {
                 </TouchableOpacity>
 
 
-                <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+                <TouchableOpacity onPress={() => this.props.navigation.navigate("Eyes")} style={styles.cardImages}>
                 <ImageBackground
                 source={require('./imgs/card5.jpg')}
                 style={styles.cardImages}>
@@ -205,7 +208,7 @@ export default class Main extends Component {
                   </TouchableOpacity>
 
 
-                  <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+                  <TouchableOpacity onPress={() => this.props.navigation.navigate("ArmsAndFeet")} style={styles.cardImages}>
                   <ImageBackground
                   source={require('./imgs/card2.jpg')}
                   style={styles.cardImages}>
@@ -340,6 +343,9 @@ export default class Main extends Component {
       Card_one: { screen: Card_one },
       Face: { screen: Face },
       Hair: { screen: Hair },
+      Skin: { screen: Skin },
+      Eyes: { screen: Eyes },
+      ArmsAndFeet: { screen: ArmsAndFeet },
       Boiler:{screen:Boiler}
     });
 

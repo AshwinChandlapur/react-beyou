@@ -13,6 +13,9 @@ import Swiper from "./app/components/Swiper";
 import Main from "./app/components/Main";
 import Face from "./app/components/Cards/Face";
 import Hair from "./app/components/Cards/Hair";
+import Skin from "./app/components/Cards/Skin";
+import Eyes from "./app/components/Cards/Eyes";
+import ArmsAndFeet from "./app/components/Cards/ArmsAndFeet";
 import Card_one from "./app/components/Card_one";
 
 /*const instructions = Platform.select({
@@ -84,6 +87,24 @@ export default App = StackNavigator({
     screen: Hair,
     navigationOptions: {
       title: "Hair"
+    }
+  },
+  Skin:{
+    screen: Skin,
+    navigationOptions: {
+      title: "Skin"
+    }
+  },
+  Eyes:{
+    screen: Eyes,
+    navigationOptions: {
+      title: "Eyes"
+    }
+  },
+  ArmsAndFeet:{
+    screen: ArmsAndFeet,
+    navigationOptions: {
+      title: "ArmsAndFeet"
     }
   }
 });
