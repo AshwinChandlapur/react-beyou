@@ -16,6 +16,16 @@ import Hair from "./app/components/Cards/Hair";
 import Skin from "./app/components/Cards/Skin";
 import Eyes from "./app/components/Cards/Eyes";
 import ArmsAndFeet from "./app/components/Cards/ArmsAndFeet";
+
+import Fair_Skin from "./app/components/Face/Fair_Skin";
+import Dark_Lips from "./app/components/Face/Dark_Lips.js";
+import Acne from "./app/components/Face/Acne.js";
+import BlackHeads from "./app/components/Face/BlackHeads.js";
+import Blemishes from "./app/components/Face/Blemishes.js";
+import Face_Cleanser from "./app/components/Face/Face_Cleanser.js";
+import Face_Scrub from "./app/components/Face/Face_Scrub.js";
+import Teeth_Whitening from "./app/components/Face/Teeth_Whitening.js";
+
 import Card_one from "./app/components/Card_one";
 
 /*const instructions = Platform.select({
@@ -106,7 +116,55 @@ export default App = StackNavigator({
     navigationOptions: {
       title: "ArmsAndFeet"
     }
-  }
+  },
+  Fair_Skin:{
+    screen: Fair_Skin,
+    navigationOptions: {
+      title: "Fair_Skin"
+    }
+  },
+  Acne:{
+    screen: Acne,
+    navigationOptions: {
+      title: "Acne"
+    }
+  },
+  BlackHeads:{
+    screen: BlackHeads,
+    navigationOptions: {
+      title: "BlackHeads"
+    }
+  },
+  Blemishes:{
+    screen: Blemishes,
+    navigationOptions: {
+      title: "Blemishes"
+    }
+  },
+  Dark_Lips:{
+    screen: Dark_Lips,
+    navigationOptions: {
+      title: "Dark_Lips"
+    }
+  },
+  Face_Cleanser:{
+    screen: Face_Cleanser,
+    navigationOptions: {
+      title: "Face_Cleanser"
+    }
+  },
+  Face_Scrub:{
+    screen: Face_Scrub,
+    navigationOptions: {
+      title: "Face_Scrub"
+    }
+  },
+  Teeth_Whitening:{
+    screen: Teeth_Whitening,
+    navigationOptions: {
+      title: "Teeth_Whitening"
+    }
+  },
 });
 
 const styles = StyleSheet.create({

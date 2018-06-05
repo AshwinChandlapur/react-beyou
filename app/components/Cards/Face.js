@@ -13,6 +13,14 @@ import {
   TouchableOpacity
 } from "react-native";
 import { CardViewWithImage } from 'react-native-simple-card-view';
+import Fair_Skin from "../Face/Fair_Skin.js";
+import Dark_Lips from "../Face/Dark_Lips.js";
+import Acne from "../Face/Acne.js";
+import BlackHeads from "../Face/BlackHeads.js";
+import Blemishes from "../Face/Blemishes.js";
+import Face_Cleanser from "../Face/Face_Cleanser.js";
+import Face_Scrub from "../Face/Face_Scrub.js";
+import Teeth_Whitening from "../Face/Teeth_Whitening.js";
 import Card_one from "../Card_one.js";
 import { StackNavigator } from "react-navigation";
 export default class Face extends Component {
@@ -32,7 +40,7 @@ export default class Face extends Component {
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Dark_Circles")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Fair_Skin")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#3F51B5',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -47,7 +55,7 @@ export default class Face extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Dark_Lips")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#03A9F4',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -62,7 +70,7 @@ export default class Face extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Puffiness")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("BlackHeads")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#009688',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -77,7 +85,7 @@ export default class Face extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Eyebrows")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Face_Cleanser")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#8BC34A',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -92,7 +100,7 @@ export default class Face extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("BeautifulEyes")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Blemishes")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#FFEB3B',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -108,7 +116,7 @@ export default class Face extends Component {
       </TouchableOpacity>
 
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("BeautifulEyes")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Face_Scrub")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#FF9800',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -123,7 +131,7 @@ export default class Face extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("BeautifulEyes")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Acne")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#795548',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -138,7 +146,7 @@ export default class Face extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("BeautifulEyes")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Teeth_Whitening")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#607D8B',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
