@@ -14,6 +14,11 @@ import {
 } from "react-native";
 import { CardViewWithImage } from 'react-native-simple-card-view';
 import Card_one from "../Card_one.js";
+import Split_Ends from "../Hair/Split_Ends.js";
+import Dandruff from "../Hair/Dandruff.js";
+import Grey_Hair from "../Hair/Grey_Hair.js";
+import Hair_Conditioning from "../Hair/Hair_Conditioning.js";
+import Hair_Loss from "../Hair/Hair_Loss.js";
 import { StackNavigator } from "react-navigation";
 export default class Hair extends Component {
 
@@ -32,7 +37,7 @@ export default class Hair extends Component {
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Split_Ends")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#3F51B5',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -47,7 +52,7 @@ export default class Hair extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Dandruff")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#03A9F4',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -62,7 +67,7 @@ export default class Hair extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Grey_Hair")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#009688',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -77,7 +82,7 @@ export default class Hair extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Hair_Conditioning")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#8BC34A',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -92,7 +97,7 @@ export default class Hair extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Hair_Loss")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#FFEB3B',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 

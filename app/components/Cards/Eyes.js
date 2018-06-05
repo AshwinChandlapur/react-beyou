@@ -14,6 +14,11 @@ import {
 } from "react-native";
 import { CardViewWithImage } from 'react-native-simple-card-view';
 import Card_one from "../Card_one.js";
+import Beautiful_Eyes from "../Eyes/Beautiful_Eyes.js";
+import Dark_Circles from "../Eyes/Dark_Circles.js";
+import Eyebrows from "../Eyes/Eyebrows.js";
+import Puffiness from "../Eyes/Puffiness.js";
+import Sunken_Eyes from "../Eyes/Sunken_Eyes.js";
 import { StackNavigator } from "react-navigation";
 export default class Skin extends Component {
 
@@ -32,7 +37,7 @@ export default class Skin extends Component {
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Dark_Circles")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#3F51B5',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -47,7 +52,7 @@ export default class Skin extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Sunken_Eyes")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#03A9F4',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -62,7 +67,7 @@ export default class Skin extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Puffiness")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#009688',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -78,7 +83,7 @@ export default class Skin extends Component {
       </TouchableOpacity>
 
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Eyebrows")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#8BC34A',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -93,7 +98,7 @@ export default class Skin extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Beautiful_Eyes")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#FFC107',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 

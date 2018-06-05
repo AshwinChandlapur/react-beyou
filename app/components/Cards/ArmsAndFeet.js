@@ -41,7 +41,7 @@ export default class ArmsAndFeet extends Component {
             borderColor: '#FFFFFF',
             alignItems:'center',
             padding:10}}>
-          <Text style={{fontSize:30,color:'#ffffff'}}>Arms and Feet</Text>
+          <Text style={{fontSize:30,color:'#ffffff'}}>Dark Underarms</Text>
           </View>
           </View>
       </View>
@@ -56,7 +56,7 @@ export default class ArmsAndFeet extends Component {
             borderColor: '#FFFFFF',
             alignItems:'center',
             padding:10}}>
-          <Text style={{fontSize:30,color:'#ffffff'}}>Lighten Dark Lips</Text>
+          <Text style={{fontSize:30,color:'#ffffff'}}>Dry and Rough Hands</Text>
           </View>
           </View>
       </View>
@@ -71,7 +71,7 @@ export default class ArmsAndFeet extends Component {
             borderColor: '#FFFFFF',
             alignItems:'center',
             padding:10}}>
-          <Text style={{fontSize:30,color:'#ffffff'}}>Blackheads</Text>
+          <Text style={{fontSize:30,color:'#ffffff'}}>Tan Removal</Text>
           </View>
           </View>
       </View>
@@ -86,74 +86,11 @@ export default class ArmsAndFeet extends Component {
             borderColor: '#FFFFFF',
             alignItems:'center',
             padding:10}}>
-          <Text style={{fontSize:30,color:'#ffffff'}}>ArmsAndFeet Cleanser</Text>
+          <Text style={{fontSize:30,color:'#ffffff'}}>Nails</Text>
           </View>
           </View>
       </View>
       </TouchableOpacity>
-
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("BeautifulEyes")} style={styles.cardImages}>
-      <View style={styles.category}>
-          <View style={{backgroundColor:'#FFEB3B',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
-
-          <View style={{border:1,
-            borderWidth: 2,
-            borderColor: '#FFFFFF',
-            alignItems:'center',
-            padding:10}}>
-          <Text style={{fontSize:30,color:'#ffffff'}}>Blemishes</Text>
-          </View>
-          </View>
-      </View>
-      </TouchableOpacity>
-
-
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("BeautifulEyes")} style={styles.cardImages}>
-      <View style={styles.category}>
-          <View style={{backgroundColor:'#03A9F4',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
-
-          <View style={{border:1,
-            borderWidth: 2,
-            borderColor: '#FFFFFF',
-            alignItems:'center',
-            padding:10}}>
-          <Text style={{fontSize:30,color:'#ffffff'}}>ArmsAndFeet Scrub</Text>
-          </View>
-          </View>
-      </View>
-      </TouchableOpacity>
-
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("BeautifulEyes")} style={styles.cardImages}>
-      <View style={styles.category}>
-          <View style={{backgroundColor:'#9C27B0',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
-
-          <View style={{border:1,
-            borderWidth: 2,
-            borderColor: '#FFFFFF',
-            alignItems:'center',
-            padding:10}}>
-          <Text style={{fontSize:30,color:'#ffffff'}}>Acne</Text>
-          </View>
-          </View>
-      </View>
-      </TouchableOpacity>
-
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("BeautifulEyes")} style={styles.cardImages}>
-      <View style={styles.category}>
-          <View style={{backgroundColor:'#3F51B5',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
-
-          <View style={{border:1,
-            borderWidth: 2,
-            borderColor: '#FFFFFF',
-            alignItems:'center',
-            padding:10}}>
-          <Text style={{fontSize:30,color:'#ffffff'}}>Teeth Whitening</Text>
-          </View>
-          </View>
-      </View>
-      </TouchableOpacity>
-
-
           </View>
 
           </ScrollView>

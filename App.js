@@ -26,6 +26,18 @@ import Face_Cleanser from "./app/components/Face/Face_Cleanser.js";
 import Face_Scrub from "./app/components/Face/Face_Scrub.js";
 import Teeth_Whitening from "./app/components/Face/Teeth_Whitening.js";
 
+import Dandruff from "./app/components/Hair/Dandruff.js";
+import Grey_Hair from "./app/components/Hair/Grey_Hair.js";
+import Hair_Conditioning from "./app/components/Hair/Hair_Conditioning.js";
+import Hair_Loss from "./app/components/Hair/Hair_Loss.js";
+import Split_Ends from "./app/components/Hair/Split_Ends.js";
+
+import Beautiful_Eyes from "./app/components/Eyes/Beautiful_Eyes.js";
+import Dark_Circles from "./app/components/Eyes/Dark_Circles.js";
+import Eyebrows from "./app/components/Eyes/Eyebrows.js";
+import Puffiness from "./app/components/Eyes/Puffiness.js";
+import Sunken_Eyes from "./app/components/Eyes/Sunken_Eyes.js";
+
 import Card_one from "./app/components/Card_one";
 
 /*const instructions = Platform.select({
@@ -163,6 +175,66 @@ export default App = StackNavigator({
     screen: Teeth_Whitening,
     navigationOptions: {
       title: "Teeth_Whitening"
+    }
+  },
+  Dandruff:{
+    screen: Dandruff,
+    navigationOptions: {
+      title: "Dandruff"
+    }
+  },
+  Grey_Hair:{
+    screen: Grey_Hair,
+    navigationOptions: {
+      title: "Grey_Hair"
+    }
+  },
+  Hair_Conditioning:{
+    screen: Hair_Conditioning,
+    navigationOptions: {
+      title: "Hair_Conditioning"
+    }
+  },
+  Hair_Loss:{
+    screen: Hair_Loss,
+    navigationOptions: {
+      title: "Hair_Loss"
+    }
+  },
+  Split_Ends:{
+    screen: Split_Ends,
+    navigationOptions: {
+      title: "Split_Ends"
+    }
+  },
+  Beautiful_Eyes:{
+    screen: Beautiful_Eyes,
+    navigationOptions: {
+      title: "Beautiful_Eyes"
+    }
+  },
+  Dark_Circles:{
+    screen: Dark_Circles,
+    navigationOptions: {
+      title: "Dark_Circles"
+    }
+  },
+  Eyebrows:{
+    screen: Eyebrows,
+    navigationOptions: {
+      title: "Eyebrows"
+    }
+  },
+  Puffiness:{
+    screen: Puffiness,
+    navigationOptions: {
+      title: "Puffiness"
+    }
+  },
+  Sunken_Eyes:{
+    screen: Sunken_Eyes,
+    navigationOptions: {
+      title: "Sunken_Eyes"
     }
   },
 });
