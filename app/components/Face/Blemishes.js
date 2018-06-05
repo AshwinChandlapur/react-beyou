@@ -26,26 +26,33 @@ export default class Blemishes extends Component {
       <Swiper navigation={this.props.navigation}>
         {/* First screen */}
         <View style={styles.slide}>
-          <Text style={styles.header}>Soak a few drops of rose water on Two Cotton Pads for 2-3 Minutes.</Text>
-          <Text style={styles.text}>Apply directly to affected Area. Repeat Twice Daily until results are visible.</Text>
+          <Text style={styles.header}>Break open one garlic capsule and squeeze the content into a one tablespoon of your moisturizer and dab it on the blemishes.</Text>
         </View>
         {/* Second screen */}
         <View style={styles.slide}>
-          <Icon name="ios-people" {...iconStyles} />
-          <Text style={styles.header}>Tip2</Text>
-          <Text style={styles.text}>two</Text>
+          <Text style={styles.header}>Make a mix of one part of apple cider vinegar and eight parts of water.</Text>
+          <Text style={styles.text}>Store the solution and rinse your face with it once or twice daily.</Text>
         </View>
         {/* Third screen */}
         <View style={styles.slide}>
-          <Icon name="ios-videocam" {...iconStyles} />
-          <Text style={styles.header}>Tip3</Text>
-          <Text style={styles.text}>three</Text>
+          <Text style={styles.header}>Boil chamomile and lemon juice in water.
+
+The application of this decoction helps heal blemishes on the skin.</Text>
+          <Text style={styles.text}>This however works on best on blemishes caused due to acne scars.</Text>
         </View>
         {/* Fourth screen */}
         <View style={styles.slide}>
-          <Icon name="ios-videocam" {...iconStyles} />
-          <Text style={styles.header}>Tip4</Text>
-          <Text style={styles.text}>three</Text>
+          <Text style={styles.header}>Mix some vinegar and 3 mashed potatoes.Apply this over the effected area over night.</Text>
+        </View>
+        {/* 5 screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>Mash green papayas and apply to your face for 15 minutes.</Text>
+        </View>
+        {/* 6 screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>Add sandalwood paste to water and apply it to your skin where the blemishes are.</Text>
+          <Text style={styles.text}>Sandalwood is good for keeping your skin clear and free of acne or blemishes.
+          Sandalwood also soothes a painful pimple or boil on the skin.</Text>
         </View>
       </Swiper>
     );
