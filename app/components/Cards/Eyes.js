@@ -36,10 +36,13 @@ export default class Skin extends Component {
     return(
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
+      <ImageBackground
+      source={require('../imgs/back1.jpg')}
+      style={styles.backImage}>
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Dark_Circles")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#3F51B5',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -54,7 +57,7 @@ export default class Skin extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Sunken_Eyes")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#03A9F4',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -69,7 +72,7 @@ export default class Skin extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Puffiness")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#009688',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -85,7 +88,7 @@ export default class Skin extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Eyebrows")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#8BC34A',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -100,7 +103,7 @@ export default class Skin extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Beautiful_Eyes")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#FFC107',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -112,6 +115,10 @@ export default class Skin extends Component {
           </View>
       </View>
       </TouchableOpacity>
+
+
+      </ImageBackground>
+
 
 
           </View>
@@ -157,6 +164,10 @@ export default class Skin extends Component {
         height: 200,
         alignItems: 'center',
         justifyContent: 'center',
+      },
+      backImage:{
+        flex:1,
+        width:'100%'
       },
       ScrollView:{
         width:'100%'

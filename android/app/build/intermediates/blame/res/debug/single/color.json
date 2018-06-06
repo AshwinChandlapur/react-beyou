@@ -8,8 +8,12 @@
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_dark.xml"
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.1.aar/73661848901f0cda75d298e29bc6ab4b/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_tint_default.xml"
     },
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
@@ -22,66 +26,6 @@
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
-        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.1.aar/73661848901f0cda75d298e29bc6ab4b/res/color/com_facebook_send_button_text_color.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_tint_default.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
@@ -100,12 +44,20 @@
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
@@ -118,5 +70,17 @@
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/color/abc_btn_colored_borderless_text_material.xml"
     }
 ]

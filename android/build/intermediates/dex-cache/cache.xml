@@ -3,219 +3,383 @@
 
     <item
         is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b906dbc16630f06db5cd972e2fd15546/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a2e64bb5a2611c0b93df425aa86f7071/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/637101f05c95c717113b40ec982115a5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
+        revision="27.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_af080de28b02fc83023ee97e4ade32a30c26756a.jar" />
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/25.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ashwinchandlapur/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/5fd02c0f35e8cd3e2c9e47a8aff6576b/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_ab2fcba04e8bcc32cdb04dd82b3cf6aa063e10a0.jar" />
+        revision="27.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/35.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/8c43a9d4793f18ab24e252a6149e1669/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
+        revision="27.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/070e1b32ccff55fa8b160079cd3bc3ed/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/node_modules/react-native-vector-icons/android/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/cfb18f2ebd4b3625826208129cb6516b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_402cc8868b8660eea337a34607a0a3e3fe989f1f.jar" />
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/29.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c5fa43d7b5b3fd61a173d79c3c40fbfa/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_bd03049cf66b7706b214676bfe1b27cd8a363b8e.jar" />
+        revision="27.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/21.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/classes.jar"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/1097245be1db211c8df593b72223a3d9/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.3_7a9e4424fd85a27409f427cf3ff70b99ab415eaa.jar" />
+        revision="27.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/31.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.1.aar/73661848901f0cda75d298e29bc6ab4b/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_335a5dc90ae27add834a100f8261d1ca3f826a4b.jar" />
+        revision="27.0.1"
+        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/15e2fc3b45bf661af97a95d0f06345d3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/react-native-0.49.3.aar/de465eb5ee225508dd414947c11ddd13/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/c5c572659265ed03d2bb5e411e7c62b7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6e021acd6eecae9c4dfffcdb18ce01a6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/customtabs-25.0.0.aar/44aad82f57254b0cd1346cada8b119f3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/node_modules/react-native-splash-screen/android/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="80ee2b43aab08dadf0134bfe4ce71537dff1b173">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a8d1550d8cdafcfaf9b5175d00088600/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/7.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
+        revision="27.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_0779b62fa66155e29c5c5c8094139b04c885bad2.jar" />
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/23.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/RNintroscreen/react-native-cardview/unspecified/jars/classes.jar"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/de318e6664bbb0051fe30f27a8ba204d/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="bbf17a3ff3d5c8a55b6d8368fb265593f521471c">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/RNintroscreen-react-native-cardview-unspecified_d88fe206ed03bd93a9b84aea7a6ca2fe911a2ade.jar" />
+        revision="27.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f024db047e9962ebef457a842518c93a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/6.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
+        revision="27.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_d87a5bdf0c47d3d87eb804141ea46f93ef9c9511.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3d2164ecdb34b5ce3a776db1141c78e2812611d3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_5ef9027606d25d33c248215e0a24c9c6c8d7f4d4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_0e8e6991bb9dd4c16d313fa0ebd13b67497e6d52.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.1_d5d53fe8f8c0b9cc263537d6f0fec30dbc857b5c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_da47a13be8db0c196b924b65c5035c7be45f55e8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1e0d9dacfe9b0e10ea48b6eb36680ecbf99713a8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_9f0639b71e36ecbe9d860f37644ed01697fd09d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_d612a950f3b34aefaa5cde835d0b4f48b5553278.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_f8f2849f2541b2cd77c81f8f3b3b8ef59d4c08e8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_baecab6c17ff76fbf7453d71b56dd1736c502fcd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_7adaef9a816f6de69a34bf0d2a0e3eeb76ccae1e.jar" />
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/28.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
+        revision="27.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_94a58cac9b982f26e1cdbd0cb0673ec88819fadf.jar" />
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/17.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/react-native-0.49.3.aar/de465eb5ee225508dd414947c11ddd13/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_df5f12f4e7dd617c1d4c9a1c0fb9070c1255e78c.jar" />
+        revision="27.0.1"
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/node_modules/react-native-cardview/android/build/intermediates/intermediate-jars/release/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ea52cb0d075b2471c530b034bc93ba3917e58744.jar" />
+        revision="27.0.1"
+        sha1="0429a9b10bc2a5f05eef6de6fa12460556a05794">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/40.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/exploded-aar/RNintroscreen/react-native-vector-icons/unspecified/jars/classes.jar"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/d68562e370c312d60d7d2459b24cead8/jars/classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
-        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/RN-intro-screen/android/app/build/intermediates/pre-dexed/debug/RNintroscreen-react-native-vector-icons-unspecified_043368fbb147859bb557c4e41f8fd82e71dfaa80.jar" />
+        revision="27.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/c5c572659265ed03d2bb5e411e7c62b7/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/a40e7b8019d655b2d1d9669d29d3f818/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/d654e620bd47350c878ceccf7b092e0f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/preDex/release/30.jar" />
     </item>
 
 </items>

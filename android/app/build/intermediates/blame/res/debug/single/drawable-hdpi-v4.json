@@ -4,12 +4,12 @@
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_icon_white.png",
@@ -36,10 +36,6 @@
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.1.aar/73661848901f0cda75d298e29bc6ab4b/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/card5.jpg",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/card5.jpg"
-    },
-    {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
@@ -58,10 +54,6 @@
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_bubble_small_blue.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.1.aar/73661848901f0cda75d298e29bc6ab4b/res/drawable-hdpi-v4/messenger_bubble_small_blue.png"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_image.jpg",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/main_image.jpg"
     },
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_bubble_large_white.png",
@@ -108,14 +100,6 @@
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.1.aar/73661848901f0cda75d298e29bc6ab4b/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/card1.jpg",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/card1.jpg"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/card4.jpg",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/card4.jpg"
-    },
-    {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -134,10 +118,6 @@
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.1.aar/73661848901f0cda75d298e29bc6ab4b/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yellow_back.jpg",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/yellow_back.jpg"
     },
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png",
@@ -180,10 +160,6 @@
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/card2.jpg",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/card2.jpg"
-    },
-    {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
     },
@@ -214,10 +190,6 @@
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.1.aar/73661848901f0cda75d298e29bc6ab4b/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/card3.jpg",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/card3.jpg"
     },
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png",
@@ -254,10 +226,6 @@
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/15e2fc3b45bf661af97a95d0f06345d3/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-hdpi/logo.png"
     },
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png",

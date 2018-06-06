@@ -47,7 +47,7 @@ import Heat from "./app/components/Skin/Heat.js";
 import Stretch_Marks from "./app/components/Skin/Stretch_Marks.js";
 import Warts from "./app/components/Skin/Warts.js";
 
-import Card_one from "./app/components/Card_one";
+
 
 /*const instructions = Platform.select({
   ios: "Press Cmd+R to reload,\n" + "Cmd+D or shake for dev menu",
@@ -103,12 +103,6 @@ export default App = StackNavigator({
     screen: Main,
     navigationOptions: {
       title: "BeYou"
-    }
-  },
-  Card_one:{
-    screen: Card_one,
-    navigationOptions: {
-      title: "Card_one"
     }
   },
   Face:{

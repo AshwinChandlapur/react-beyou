@@ -4,10 +4,6 @@
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/screen.png",
-        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-xxxhdpi/screen.png"
-    },
-    {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -106,5 +102,9 @@
     {
         "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png",
         "source": "/Users/ashwinchandlapur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/faaace67e33e4d54bf844ae10a1a1ee6/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/screen.webp",
+        "source": "/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/src/main/res/drawable-xxxhdpi/screen.webp"
     }
 ]

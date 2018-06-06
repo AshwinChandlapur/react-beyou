@@ -1,0 +1,4 @@
+#Wed Jun 06 18:55:44 IST 2018
+base.0=/Users/ashwinchandlapur/Desktop/React-Native Projects/React-BeYou/android/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

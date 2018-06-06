@@ -2610,82 +2610,58 @@ containing a value of this type.
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020050;
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
-        public static final int android_app_src_main_assets_images_logo=0x7f020053;
-        public static final int android_app_src_main_res_drawablehdpi_logo=0x7f020054;
-        public static final int app_components_card1=0x7f020055;
-        public static final int app_components_card2=0x7f020056;
-        public static final int app_components_card3=0x7f020057;
-        public static final int app_components_card4=0x7f020058;
-        public static final int app_components_card5=0x7f020059;
-        public static final int app_components_imgs_card1=0x7f02005a;
-        public static final int app_components_imgs_card2=0x7f02005b;
-        public static final int app_components_imgs_card3=0x7f02005c;
-        public static final int app_components_imgs_card4=0x7f02005d;
-        public static final int app_components_imgs_card5=0x7f02005e;
-        public static final int app_components_imgs_logo=0x7f02005f;
-        public static final int app_components_imgs_yellow_back=0x7f020060;
-        public static final int app_components_yellow_back=0x7f020061;
-        public static final int card1=0x7f020062;
-        public static final int card2=0x7f020063;
-        public static final int card3=0x7f020064;
-        public static final int card4=0x7f020065;
-        public static final int card5=0x7f020066;
-        public static final int com_facebook_auth_dialog_background=0x7f020067;
-        public static final int com_facebook_auth_dialog_cancel_background=0x7f020068;
-        public static final int com_facebook_auth_dialog_header_background=0x7f020069;
-        public static final int com_facebook_button_background=0x7f02006a;
-        public static final int com_facebook_button_icon=0x7f02006b;
-        public static final int com_facebook_button_icon_blue=0x7f02006c;
-        public static final int com_facebook_button_icon_white=0x7f02006d;
-        public static final int com_facebook_button_like_background=0x7f02006e;
-        public static final int com_facebook_button_like_icon_selected=0x7f02006f;
-        public static final int com_facebook_button_login_background=0x7f020070;
-        public static final int com_facebook_button_login_logo=0x7f020071;
-        public static final int com_facebook_button_login_silver_background=0x7f020072;
-        public static final int com_facebook_button_send_background=0x7f020073;
-        public static final int com_facebook_button_send_icon_blue=0x7f020074;
-        public static final int com_facebook_button_send_icon_white=0x7f020075;
-        public static final int com_facebook_close=0x7f020076;
-        public static final int com_facebook_favicon_blue=0x7f020077;
-        public static final int com_facebook_profile_picture_blank_portrait=0x7f020078;
-        public static final int com_facebook_profile_picture_blank_square=0x7f020079;
-        public static final int com_facebook_send_button_icon=0x7f02007a;
-        public static final int com_facebook_tooltip_black_background=0x7f02007b;
-        public static final int com_facebook_tooltip_black_bottomnub=0x7f02007c;
-        public static final int com_facebook_tooltip_black_topnub=0x7f02007d;
-        public static final int com_facebook_tooltip_black_xout=0x7f02007e;
-        public static final int com_facebook_tooltip_blue_background=0x7f02007f;
-        public static final int com_facebook_tooltip_blue_bottomnub=0x7f020080;
-        public static final int com_facebook_tooltip_blue_topnub=0x7f020081;
-        public static final int com_facebook_tooltip_blue_xout=0x7f020082;
-        public static final int logo=0x7f020083;
-        public static final int main_image=0x7f020084;
-        public static final int messenger_bubble_large_blue=0x7f020085;
-        public static final int messenger_bubble_large_white=0x7f020086;
-        public static final int messenger_bubble_small_blue=0x7f020087;
-        public static final int messenger_bubble_small_white=0x7f020088;
-        public static final int messenger_button_blue_bg_round=0x7f020089;
-        public static final int messenger_button_blue_bg_selector=0x7f02008a;
-        public static final int messenger_button_send_round_shadow=0x7f02008b;
-        public static final int messenger_button_white_bg_round=0x7f02008c;
-        public static final int messenger_button_white_bg_selector=0x7f02008d;
-        public static final int node_modules_reactnavigation_src_views_assets_backicon=0x7f02008e;
-        public static final int notification_action_background=0x7f02008f;
-        public static final int notification_bg=0x7f020090;
-        public static final int notification_bg_low=0x7f020091;
-        public static final int notification_bg_low_normal=0x7f020092;
-        public static final int notification_bg_low_pressed=0x7f020093;
-        public static final int notification_bg_normal=0x7f020094;
-        public static final int notification_bg_normal_pressed=0x7f020095;
-        public static final int notification_icon_background=0x7f020096;
-        public static final int notification_template_icon_bg=0x7f02009d;
-        public static final int notification_template_icon_low_bg=0x7f02009e;
-        public static final int notification_tile_bg=0x7f020097;
-        public static final int notify_panel_notification_icon_bg=0x7f020098;
-        public static final int screen=0x7f020099;
-        public static final int tooltip_frame_dark=0x7f02009a;
-        public static final int tooltip_frame_light=0x7f02009b;
-        public static final int yellow_back=0x7f02009c;
+        public static final int com_facebook_auth_dialog_background=0x7f020053;
+        public static final int com_facebook_auth_dialog_cancel_background=0x7f020054;
+        public static final int com_facebook_auth_dialog_header_background=0x7f020055;
+        public static final int com_facebook_button_background=0x7f020056;
+        public static final int com_facebook_button_icon=0x7f020057;
+        public static final int com_facebook_button_icon_blue=0x7f020058;
+        public static final int com_facebook_button_icon_white=0x7f020059;
+        public static final int com_facebook_button_like_background=0x7f02005a;
+        public static final int com_facebook_button_like_icon_selected=0x7f02005b;
+        public static final int com_facebook_button_login_background=0x7f02005c;
+        public static final int com_facebook_button_login_logo=0x7f02005d;
+        public static final int com_facebook_button_login_silver_background=0x7f02005e;
+        public static final int com_facebook_button_send_background=0x7f02005f;
+        public static final int com_facebook_button_send_icon_blue=0x7f020060;
+        public static final int com_facebook_button_send_icon_white=0x7f020061;
+        public static final int com_facebook_close=0x7f020062;
+        public static final int com_facebook_favicon_blue=0x7f020063;
+        public static final int com_facebook_profile_picture_blank_portrait=0x7f020064;
+        public static final int com_facebook_profile_picture_blank_square=0x7f020065;
+        public static final int com_facebook_send_button_icon=0x7f020066;
+        public static final int com_facebook_tooltip_black_background=0x7f020067;
+        public static final int com_facebook_tooltip_black_bottomnub=0x7f020068;
+        public static final int com_facebook_tooltip_black_topnub=0x7f020069;
+        public static final int com_facebook_tooltip_black_xout=0x7f02006a;
+        public static final int com_facebook_tooltip_blue_background=0x7f02006b;
+        public static final int com_facebook_tooltip_blue_bottomnub=0x7f02006c;
+        public static final int com_facebook_tooltip_blue_topnub=0x7f02006d;
+        public static final int com_facebook_tooltip_blue_xout=0x7f02006e;
+        public static final int messenger_bubble_large_blue=0x7f02006f;
+        public static final int messenger_bubble_large_white=0x7f020070;
+        public static final int messenger_bubble_small_blue=0x7f020071;
+        public static final int messenger_bubble_small_white=0x7f020072;
+        public static final int messenger_button_blue_bg_round=0x7f020073;
+        public static final int messenger_button_blue_bg_selector=0x7f020074;
+        public static final int messenger_button_send_round_shadow=0x7f020075;
+        public static final int messenger_button_white_bg_round=0x7f020076;
+        public static final int messenger_button_white_bg_selector=0x7f020077;
+        public static final int notification_action_background=0x7f020078;
+        public static final int notification_bg=0x7f020079;
+        public static final int notification_bg_low=0x7f02007a;
+        public static final int notification_bg_low_normal=0x7f02007b;
+        public static final int notification_bg_low_pressed=0x7f02007c;
+        public static final int notification_bg_normal=0x7f02007d;
+        public static final int notification_bg_normal_pressed=0x7f02007e;
+        public static final int notification_icon_background=0x7f02007f;
+        public static final int notification_template_icon_bg=0x7f020085;
+        public static final int notification_template_icon_low_bg=0x7f020086;
+        public static final int notification_tile_bg=0x7f020080;
+        public static final int notify_panel_notification_icon_bg=0x7f020081;
+        public static final int screen=0x7f020082;
+        public static final int tooltip_frame_dark=0x7f020083;
+        public static final int tooltip_frame_light=0x7f020084;
     }
     public static final class id {
         public static final int ALT=0x7f0c0032;
@@ -3412,35 +3388,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.rnintroscreen:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.rnintroscreen:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.rnintroscreen:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.rnintroscreen:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.rnintroscreen:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.rnintroscreen:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.rnintroscreen:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.rnintroscreen:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.rnintroscreen:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.rnintroscreen:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.rnintroscreen:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.rnintroscreen:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.rnintroscreen:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.rnintroscreen:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.rnintroscreen:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.rnintroscreen:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.rnintroscreen:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.rnintroscreen:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.rnintroscreen:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.rnintroscreen:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.rnintroscreen:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.rnintroscreen:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.rnintroscreen:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.rnintroscreen:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.rnintroscreen:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.rnintroscreen:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.rnintroscreen:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.rnintroscreen:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.rnintroscreen:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.beyou.beautytips:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.beyou.beautytips:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.beyou.beautytips:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.beyou.beautytips:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.beyou.beautytips:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.beyou.beautytips:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.beyou.beautytips:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.beyou.beautytips:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.beyou.beautytips:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.beyou.beautytips:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.beyou.beautytips:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.beyou.beautytips:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.beyou.beautytips:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.beyou.beautytips:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.beyou.beautytips:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.beyou.beautytips:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.beyou.beautytips:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.beyou.beautytips:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.beyou.beautytips:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.beyou.beautytips:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.beyou.beautytips:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.beyou.beautytips:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.beyou.beautytips:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.beyou.beautytips:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.beyou.beautytips:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.beyou.beautytips:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.beyou.beautytips:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.beyou.beautytips:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.beyou.beautytips:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3483,17 +3459,17 @@ containing a value of this type.
             0x7f010063
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#background}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:background
+          @attr name com.beyou.beautytips:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3501,11 +3477,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.rnintroscreen:backgroundSplit
+          @attr name com.beyou.beautytips:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3513,11 +3489,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.rnintroscreen:backgroundStacked
+          @attr name com.beyou.beautytips:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3529,11 +3505,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetEnd
+          @attr name com.beyou.beautytips:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3545,11 +3521,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetEndWithActions
+          @attr name com.beyou.beautytips:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3561,11 +3537,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetLeft
+          @attr name com.beyou.beautytips:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3577,11 +3553,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetRight
+          @attr name com.beyou.beautytips:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3593,11 +3569,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetStart
+          @attr name com.beyou.beautytips:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3609,21 +3585,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetStartWithNavigation
+          @attr name com.beyou.beautytips:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:customNavigationLayout
+          @attr name com.beyou.beautytips:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3641,21 +3617,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:displayOptions
+          @attr name com.beyou.beautytips:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:divider
+          @attr name com.beyou.beautytips:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3667,11 +3643,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:elevation
+          @attr name com.beyou.beautytips:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#height}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3683,11 +3659,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:height
+          @attr name com.beyou.beautytips:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3697,51 +3673,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:hideOnContentScroll
+          @attr name com.beyou.beautytips:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:homeAsUpIndicator
+          @attr name com.beyou.beautytips:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:homeLayout
+          @attr name com.beyou.beautytips:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:icon
+          @attr name com.beyou.beautytips:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:indeterminateProgressStyle
+          @attr name com.beyou.beautytips:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3753,21 +3729,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:itemPadding
+          @attr name com.beyou.beautytips:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:logo
+          @attr name com.beyou.beautytips:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3781,21 +3757,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:navigationMode
+          @attr name com.beyou.beautytips:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:popupTheme
+          @attr name com.beyou.beautytips:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3807,21 +3783,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:progressBarPadding
+          @attr name com.beyou.beautytips:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:progressBarStyle
+          @attr name com.beyou.beautytips:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3831,21 +3807,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:subtitle
+          @attr name com.beyou.beautytips:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:subtitleTextStyle
+          @attr name com.beyou.beautytips:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#title}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3855,17 +3831,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:title
+          @attr name com.beyou.beautytips:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:titleTextStyle
+          @attr name com.beyou.beautytips:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3917,12 +3893,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.rnintroscreen:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.rnintroscreen:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.rnintroscreen:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.rnintroscreen:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.rnintroscreen:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.rnintroscreen:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.beyou.beautytips:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.beyou.beautytips:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.beyou.beautytips:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.beyou.beautytips:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.beyou.beautytips:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.beyou.beautytips:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3936,17 +3912,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#background}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:background
+          @attr name com.beyou.beautytips:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3954,21 +3930,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.rnintroscreen:backgroundSplit
+          @attr name com.beyou.beautytips:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:closeItemLayout
+          @attr name com.beyou.beautytips:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#height}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3980,27 +3956,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:height
+          @attr name com.beyou.beautytips:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:subtitleTextStyle
+          @attr name com.beyou.beautytips:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:titleTextStyle
+          @attr name com.beyou.beautytips:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4009,8 +3985,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.rnintroscreen:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.rnintroscreen:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.beyou.beautytips:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.beyou.beautytips:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4019,17 +3995,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001f, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:expandActivityOverflowButtonDrawable
+          @attr name com.beyou.beautytips:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4039,7 +4015,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:initialActivityCount
+          @attr name com.beyou.beautytips:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4049,12 +4025,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.rnintroscreen:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.rnintroscreen:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.rnintroscreen:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.rnintroscreen:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.rnintroscreen:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.rnintroscreen:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.beyou.beautytips:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.beyou.beautytips:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.beyou.beautytips:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.beyou.beautytips:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.beyou.beautytips:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.beyou.beautytips:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4075,47 +4051,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:buttonPanelSideLayout
+          @attr name com.beyou.beautytips:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:listItemLayout
+          @attr name com.beyou.beautytips:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:listLayout
+          @attr name com.beyou.beautytips:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:multiChoiceItemLayout
+          @attr name com.beyou.beautytips:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4125,17 +4101,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:showTitle
+          @attr name com.beyou.beautytips:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:singleChoiceItemLayout
+          @attr name com.beyou.beautytips:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4145,9 +4121,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.rnintroscreen:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint com.rnintroscreen:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode com.rnintroscreen:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.beyou.beautytips:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint com.beyou.beautytips:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode com.beyou.beautytips:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4164,17 +4140,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:srcCompat
+          @attr name com.beyou.beautytips:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#tint}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4185,11 +4161,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:tint
+          @attr name com.beyou.beautytips:tint
         */
         public static final int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4206,7 +4182,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:tintMode
+          @attr name com.beyou.beautytips:tintMode
         */
         public static final int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4216,9 +4192,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.rnintroscreen:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.rnintroscreen:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.rnintroscreen:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.beyou.beautytips:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.beyou.beautytips:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.beyou.beautytips:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4235,17 +4211,17 @@ containing a value of this type.
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:tickMark
+          @attr name com.beyou.beautytips:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4256,11 +4232,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:tickMarkTint
+          @attr name com.beyou.beautytips:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4277,7 +4253,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:tickMarkTintMode
+          @attr name com.beyou.beautytips:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4355,13 +4331,13 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.rnintroscreen:autoSizeMaxTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.rnintroscreen:autoSizeMinTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.rnintroscreen:autoSizePresetSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.rnintroscreen:autoSizeStepGranularity}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.rnintroscreen:autoSizeTextType}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_fontFamily com.rnintroscreen:fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.rnintroscreen:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.beyou.beautytips:autoSizeMaxTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.beyou.beautytips:autoSizeMinTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.beyou.beautytips:autoSizePresetSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.beyou.beautytips:autoSizeStepGranularity}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.beyou.beautytips:autoSizeTextType}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_fontFamily com.beyou.beautytips:fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.beyou.beautytips:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_autoSizeMaxTextSize
@@ -4383,7 +4359,7 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#autoSizeMaxTextSize}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#autoSizeMaxTextSize}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4395,11 +4371,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:autoSizeMaxTextSize
+          @attr name com.beyou.beautytips:autoSizeMaxTextSize
         */
         public static final int AppCompatTextView_autoSizeMaxTextSize = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#autoSizeMinTextSize}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#autoSizeMinTextSize}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4411,21 +4387,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:autoSizeMinTextSize
+          @attr name com.beyou.beautytips:autoSizeMinTextSize
         */
         public static final int AppCompatTextView_autoSizeMinTextSize = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#autoSizePresetSizes}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#autoSizePresetSizes}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:autoSizePresetSizes
+          @attr name com.beyou.beautytips:autoSizePresetSizes
         */
         public static final int AppCompatTextView_autoSizePresetSizes = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#autoSizeStepGranularity}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#autoSizeStepGranularity}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4437,11 +4413,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:autoSizeStepGranularity
+          @attr name com.beyou.beautytips:autoSizeStepGranularity
         */
         public static final int AppCompatTextView_autoSizeStepGranularity = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#autoSizeTextType}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#autoSizeTextType}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4454,11 +4430,11 @@ containing a value of this type.
 <tr><td><code>none</code></td><td>0</td><td></td></tr>
 <tr><td><code>uniform</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:autoSizeTextType
+          @attr name com.beyou.beautytips:autoSizeTextType
         */
         public static final int AppCompatTextView_autoSizeTextType = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontFamily}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontFamily}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4468,18 +4444,18 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:fontFamily
+          @attr name com.beyou.beautytips:fontFamily
         */
         public static final int AppCompatTextView_fontFamily = 7;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.rnintroscreen:textAllCaps
+          @attr name com.beyou.beautytips:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4488,125 +4464,125 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.rnintroscreen:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.rnintroscreen:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.rnintroscreen:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.rnintroscreen:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.rnintroscreen:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.rnintroscreen:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.rnintroscreen:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.rnintroscreen:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.rnintroscreen:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.rnintroscreen:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.rnintroscreen:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.rnintroscreen:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.rnintroscreen:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.rnintroscreen:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.rnintroscreen:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.rnintroscreen:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.rnintroscreen:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.rnintroscreen:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.rnintroscreen:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.rnintroscreen:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.rnintroscreen:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.rnintroscreen:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.rnintroscreen:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.rnintroscreen:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.rnintroscreen:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.rnintroscreen:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.rnintroscreen:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.rnintroscreen:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.rnintroscreen:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.rnintroscreen:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.rnintroscreen:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.rnintroscreen:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.rnintroscreen:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.rnintroscreen:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.rnintroscreen:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.beyou.beautytips:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.beyou.beautytips:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.beyou.beautytips:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.beyou.beautytips:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.beyou.beautytips:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.beyou.beautytips:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.beyou.beautytips:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.beyou.beautytips:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.beyou.beautytips:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.beyou.beautytips:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.beyou.beautytips:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.beyou.beautytips:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.beyou.beautytips:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.beyou.beautytips:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.beyou.beautytips:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.beyou.beautytips:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.beyou.beautytips:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.beyou.beautytips:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.beyou.beautytips:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.beyou.beautytips:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.beyou.beautytips:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.beyou.beautytips:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.beyou.beautytips:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.beyou.beautytips:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.beyou.beautytips:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.beyou.beautytips:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.beyou.beautytips:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.beyou.beautytips:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.beyou.beautytips:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.beyou.beautytips:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.beyou.beautytips:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.beyou.beautytips:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.beyou.beautytips:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.beyou.beautytips:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.beyou.beautytips:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.rnintroscreen:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.rnintroscreen:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.rnintroscreen:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.rnintroscreen:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.rnintroscreen:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.rnintroscreen:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.rnintroscreen:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.rnintroscreen:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.rnintroscreen:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.rnintroscreen:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.rnintroscreen:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.rnintroscreen:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.rnintroscreen:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.rnintroscreen:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.rnintroscreen:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.rnintroscreen:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.rnintroscreen:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorError com.rnintroscreen:colorError}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.rnintroscreen:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.rnintroscreen:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.rnintroscreen:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.rnintroscreen:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.rnintroscreen:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.rnintroscreen:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.rnintroscreen:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.rnintroscreen:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.rnintroscreen:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.rnintroscreen:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.rnintroscreen:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.rnintroscreen:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.rnintroscreen:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.rnintroscreen:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.rnintroscreen:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.rnintroscreen:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.rnintroscreen:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.rnintroscreen:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.rnintroscreen:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.rnintroscreen:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.rnintroscreen:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.rnintroscreen:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.rnintroscreen:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.rnintroscreen:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.rnintroscreen:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.rnintroscreen:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.rnintroscreen:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.rnintroscreen:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.rnintroscreen:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.rnintroscreen:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.rnintroscreen:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.rnintroscreen:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.rnintroscreen:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.rnintroscreen:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.rnintroscreen:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.rnintroscreen:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.rnintroscreen:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.rnintroscreen:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.rnintroscreen:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.rnintroscreen:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.rnintroscreen:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.rnintroscreen:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.rnintroscreen:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.rnintroscreen:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.rnintroscreen:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.rnintroscreen:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.rnintroscreen:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.rnintroscreen:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.rnintroscreen:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.rnintroscreen:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.rnintroscreen:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.rnintroscreen:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.rnintroscreen:tooltipForegroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.rnintroscreen:tooltipFrameBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.rnintroscreen:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.rnintroscreen:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.rnintroscreen:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.rnintroscreen:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.rnintroscreen:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.rnintroscreen:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.rnintroscreen:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.rnintroscreen:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.rnintroscreen:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.rnintroscreen:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.beyou.beautytips:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.beyou.beautytips:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.beyou.beautytips:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.beyou.beautytips:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.beyou.beautytips:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.beyou.beautytips:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.beyou.beautytips:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.beyou.beautytips:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.beyou.beautytips:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.beyou.beautytips:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.beyou.beautytips:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.beyou.beautytips:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.beyou.beautytips:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.beyou.beautytips:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.beyou.beautytips:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.beyou.beautytips:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.beyou.beautytips:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorError com.beyou.beautytips:colorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.beyou.beautytips:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.beyou.beautytips:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.beyou.beautytips:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.beyou.beautytips:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.beyou.beautytips:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.beyou.beautytips:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.beyou.beautytips:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.beyou.beautytips:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.beyou.beautytips:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.beyou.beautytips:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.beyou.beautytips:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.beyou.beautytips:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.beyou.beautytips:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.beyou.beautytips:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.beyou.beautytips:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.beyou.beautytips:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.beyou.beautytips:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.beyou.beautytips:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.beyou.beautytips:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.beyou.beautytips:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.beyou.beautytips:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.beyou.beautytips:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.beyou.beautytips:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.beyou.beautytips:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.beyou.beautytips:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.beyou.beautytips:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.beyou.beautytips:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.beyou.beautytips:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.beyou.beautytips:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.beyou.beautytips:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.beyou.beautytips:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.beyou.beautytips:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.beyou.beautytips:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.beyou.beautytips:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.beyou.beautytips:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.beyou.beautytips:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.beyou.beautytips:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.beyou.beautytips:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.beyou.beautytips:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.beyou.beautytips:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.beyou.beautytips:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.beyou.beautytips:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.beyou.beautytips:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.beyou.beautytips:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.beyou.beautytips:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.beyou.beautytips:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.beyou.beautytips:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.beyou.beautytips:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.beyou.beautytips:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.beyou.beautytips:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.beyou.beautytips:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.beyou.beautytips:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.beyou.beautytips:tooltipForegroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.beyou.beautytips:tooltipFrameBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.beyou.beautytips:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.beyou.beautytips:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.beyou.beautytips:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.beyou.beautytips:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.beyou.beautytips:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.beyou.beautytips:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.beyou.beautytips:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.beyou.beautytips:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.beyou.beautytips:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.beyou.beautytips:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4761,37 +4737,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a6, 0x7f0100a7, 0x7f0100a8
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarDivider
+          @attr name com.beyou.beautytips:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarItemBackground
+          @attr name com.beyou.beautytips:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarPopupTheme
+          @attr name com.beyou.beautytips:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4811,111 +4787,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:actionBarSize
+          @attr name com.beyou.beautytips:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarSplitStyle
+          @attr name com.beyou.beautytips:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarStyle
+          @attr name com.beyou.beautytips:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarTabBarStyle
+          @attr name com.beyou.beautytips:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarTabStyle
+          @attr name com.beyou.beautytips:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarTabTextStyle
+          @attr name com.beyou.beautytips:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarTheme
+          @attr name com.beyou.beautytips:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionBarWidgetTheme
+          @attr name com.beyou.beautytips:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionButtonStyle
+          @attr name com.beyou.beautytips:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionDropDownStyle
+          @attr name com.beyou.beautytips:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionMenuTextAppearance
+          @attr name com.beyou.beautytips:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4923,181 +4899,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.rnintroscreen:actionMenuTextColor
+          @attr name com.beyou.beautytips:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeBackground
+          @attr name com.beyou.beautytips:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeCloseButtonStyle
+          @attr name com.beyou.beautytips:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeCloseDrawable
+          @attr name com.beyou.beautytips:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeCopyDrawable
+          @attr name com.beyou.beautytips:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeCutDrawable
+          @attr name com.beyou.beautytips:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeFindDrawable
+          @attr name com.beyou.beautytips:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModePasteDrawable
+          @attr name com.beyou.beautytips:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModePopupWindowStyle
+          @attr name com.beyou.beautytips:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeSelectAllDrawable
+          @attr name com.beyou.beautytips:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeShareDrawable
+          @attr name com.beyou.beautytips:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeSplitBackground
+          @attr name com.beyou.beautytips:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeStyle
+          @attr name com.beyou.beautytips:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionModeWebSearchDrawable
+          @attr name com.beyou.beautytips:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionOverflowButtonStyle
+          @attr name com.beyou.beautytips:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionOverflowMenuStyle
+          @attr name com.beyou.beautytips:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:activityChooserViewStyle
+          @attr name com.beyou.beautytips:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:alertDialogButtonGroupStyle
+          @attr name com.beyou.beautytips:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5107,27 +5083,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:alertDialogCenterButtons
+          @attr name com.beyou.beautytips:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:alertDialogStyle
+          @attr name com.beyou.beautytips:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:alertDialogTheme
+          @attr name com.beyou.beautytips:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5143,117 +5119,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:autoCompleteTextViewStyle
+          @attr name com.beyou.beautytips:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:borderlessButtonStyle
+          @attr name com.beyou.beautytips:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:buttonBarButtonStyle
+          @attr name com.beyou.beautytips:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:buttonBarNegativeButtonStyle
+          @attr name com.beyou.beautytips:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:buttonBarNeutralButtonStyle
+          @attr name com.beyou.beautytips:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:buttonBarPositiveButtonStyle
+          @attr name com.beyou.beautytips:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:buttonBarStyle
+          @attr name com.beyou.beautytips:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:buttonStyle
+          @attr name com.beyou.beautytips:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:buttonStyleSmall
+          @attr name com.beyou.beautytips:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:checkboxStyle
+          @attr name com.beyou.beautytips:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:checkedTextViewStyle
+          @attr name com.beyou.beautytips:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5264,11 +5240,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:colorAccent
+          @attr name com.beyou.beautytips:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5279,11 +5255,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:colorBackgroundFloating
+          @attr name com.beyou.beautytips:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5294,11 +5270,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:colorButtonNormal
+          @attr name com.beyou.beautytips:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5309,11 +5285,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:colorControlActivated
+          @attr name com.beyou.beautytips:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5324,11 +5300,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:colorControlHighlight
+          @attr name com.beyou.beautytips:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5339,11 +5315,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:colorControlNormal
+          @attr name com.beyou.beautytips:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorError}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorError}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5351,11 +5327,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.rnintroscreen:colorError
+          @attr name com.beyou.beautytips:colorError
         */
         public static final int AppCompatTheme_colorError = 118;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5366,11 +5342,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:colorPrimary
+          @attr name com.beyou.beautytips:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5381,11 +5357,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:colorPrimaryDark
+          @attr name com.beyou.beautytips:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5396,21 +5372,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:colorSwitchThumbNormal
+          @attr name com.beyou.beautytips:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:controlBackground
+          @attr name com.beyou.beautytips:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5422,51 +5398,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:dialogPreferredPadding
+          @attr name com.beyou.beautytips:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:dialogTheme
+          @attr name com.beyou.beautytips:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:dividerHorizontal
+          @attr name com.beyou.beautytips:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:dividerVertical
+          @attr name com.beyou.beautytips:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:dropDownListViewStyle
+          @attr name com.beyou.beautytips:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5478,21 +5454,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:dropdownListPreferredItemHeight
+          @attr name com.beyou.beautytips:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:editTextBackground
+          @attr name com.beyou.beautytips:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5500,81 +5476,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.rnintroscreen:editTextColor
+          @attr name com.beyou.beautytips:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:editTextStyle
+          @attr name com.beyou.beautytips:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:homeAsUpIndicator
+          @attr name com.beyou.beautytips:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:imageButtonStyle
+          @attr name com.beyou.beautytips:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:listChoiceBackgroundIndicator
+          @attr name com.beyou.beautytips:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:listDividerAlertDialog
+          @attr name com.beyou.beautytips:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:listMenuViewStyle
+          @attr name com.beyou.beautytips:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:listPopupWindowStyle
+          @attr name com.beyou.beautytips:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5586,11 +5562,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:listPreferredItemHeight
+          @attr name com.beyou.beautytips:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5602,11 +5578,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:listPreferredItemHeightLarge
+          @attr name com.beyou.beautytips:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5618,11 +5594,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:listPreferredItemHeightSmall
+          @attr name com.beyou.beautytips:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5634,11 +5610,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:listPreferredItemPaddingLeft
+          @attr name com.beyou.beautytips:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5650,31 +5626,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:listPreferredItemPaddingRight
+          @attr name com.beyou.beautytips:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:panelBackground
+          @attr name com.beyou.beautytips:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:panelMenuListTheme
+          @attr name com.beyou.beautytips:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5686,221 +5662,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:panelMenuListWidth
+          @attr name com.beyou.beautytips:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:popupMenuStyle
+          @attr name com.beyou.beautytips:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:popupWindowStyle
+          @attr name com.beyou.beautytips:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:radioButtonStyle
+          @attr name com.beyou.beautytips:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:ratingBarStyle
+          @attr name com.beyou.beautytips:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:ratingBarStyleIndicator
+          @attr name com.beyou.beautytips:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:ratingBarStyleSmall
+          @attr name com.beyou.beautytips:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:searchViewStyle
+          @attr name com.beyou.beautytips:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:seekBarStyle
+          @attr name com.beyou.beautytips:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:selectableItemBackground
+          @attr name com.beyou.beautytips:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:selectableItemBackgroundBorderless
+          @attr name com.beyou.beautytips:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:spinnerDropDownItemStyle
+          @attr name com.beyou.beautytips:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:spinnerStyle
+          @attr name com.beyou.beautytips:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:switchStyle
+          @attr name com.beyou.beautytips:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:textAppearanceLargePopupMenu
+          @attr name com.beyou.beautytips:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:textAppearanceListItem
+          @attr name com.beyou.beautytips:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:textAppearanceListItemSecondary
+          @attr name com.beyou.beautytips:textAppearanceListItemSecondary
         */
         public static final int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:textAppearanceListItemSmall
+          @attr name com.beyou.beautytips:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:textAppearancePopupMenuHeader
+          @attr name com.beyou.beautytips:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:textAppearanceSearchResultSubtitle
+          @attr name com.beyou.beautytips:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:textAppearanceSearchResultTitle
+          @attr name com.beyou.beautytips:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:textAppearanceSmallPopupMenu
+          @attr name com.beyou.beautytips:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5908,11 +5884,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.rnintroscreen:textColorAlertDialogListItem
+          @attr name com.beyou.beautytips:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5920,31 +5896,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.rnintroscreen:textColorSearchUrl
+          @attr name com.beyou.beautytips:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:toolbarNavigationButtonStyle
+          @attr name com.beyou.beautytips:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:toolbarStyle
+          @attr name com.beyou.beautytips:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#tooltipForegroundColor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#tooltipForegroundColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5952,21 +5928,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.rnintroscreen:tooltipForegroundColor
+          @attr name com.beyou.beautytips:tooltipForegroundColor
         */
         public static final int AppCompatTheme_tooltipForegroundColor = 117;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#tooltipFrameBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#tooltipFrameBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:tooltipFrameBackground
+          @attr name com.beyou.beautytips:tooltipFrameBackground
         */
         public static final int AppCompatTheme_tooltipFrameBackground = 116;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5976,11 +5952,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowActionBar
+          @attr name com.beyou.beautytips:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5990,11 +5966,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowActionBarOverlay
+          @attr name com.beyou.beautytips:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6004,11 +5980,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowActionModeOverlay
+          @attr name com.beyou.beautytips:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6023,11 +5999,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowFixedHeightMajor
+          @attr name com.beyou.beautytips:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6042,11 +6018,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowFixedHeightMinor
+          @attr name com.beyou.beautytips:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6061,11 +6037,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowFixedWidthMajor
+          @attr name com.beyou.beautytips:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6080,11 +6056,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowFixedWidthMinor
+          @attr name com.beyou.beautytips:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6099,11 +6075,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowMinWidthMajor
+          @attr name com.beyou.beautytips:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6118,11 +6094,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowMinWidthMinor
+          @attr name com.beyou.beautytips:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6132,7 +6108,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:windowNoTitle
+          @attr name com.beyou.beautytips:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6141,7 +6117,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.rnintroscreen:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.beyou.beautytips:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6149,7 +6125,7 @@ containing a value of this type.
             0x7f0100a9
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6159,7 +6135,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:allowStacking
+          @attr name com.beyou.beautytips:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6170,17 +6146,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.rnintroscreen:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.rnintroscreen:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.rnintroscreen:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.rnintroscreen:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.rnintroscreen:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.rnintroscreen:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.rnintroscreen:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.rnintroscreen:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.rnintroscreen:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.rnintroscreen:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.rnintroscreen:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.beyou.beautytips:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.beyou.beautytips:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.beyou.beautytips:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.beyou.beautytips:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.beyou.beautytips:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.beyou.beautytips:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.beyou.beautytips:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.beyou.beautytips:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.beyou.beautytips:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.beyou.beautytips:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.beyou.beautytips:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6215,7 +6191,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6226,11 +6202,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:cardBackgroundColor
+          @attr name com.beyou.beautytips:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6242,11 +6218,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:cardCornerRadius
+          @attr name com.beyou.beautytips:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6258,11 +6234,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:cardElevation
+          @attr name com.beyou.beautytips:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6274,11 +6250,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:cardMaxElevation
+          @attr name com.beyou.beautytips:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6288,11 +6264,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:cardPreventCornerOverlap
+          @attr name com.beyou.beautytips:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6302,11 +6278,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:cardUseCompatPadding
+          @attr name com.beyou.beautytips:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6318,11 +6294,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentPadding
+          @attr name com.beyou.beautytips:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6334,11 +6310,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentPaddingBottom
+          @attr name com.beyou.beautytips:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6350,11 +6326,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentPaddingLeft
+          @attr name com.beyou.beautytips:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6366,11 +6342,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentPaddingRight
+          @attr name com.beyou.beautytips:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6382,7 +6358,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentPaddingTop
+          @attr name com.beyou.beautytips:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6391,7 +6367,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.rnintroscreen:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.beyou.beautytips:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6403,7 +6379,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100b5
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6413,7 +6389,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:alpha
+          @attr name com.beyou.beautytips:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -6435,8 +6411,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.rnintroscreen:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.rnintroscreen:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.beyou.beautytips:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.beyou.beautytips:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6452,7 +6428,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6463,11 +6439,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:buttonTint
+          @attr name com.beyou.beautytips:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6484,7 +6460,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:buttonTintMode
+          @attr name com.beyou.beautytips:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -6493,14 +6469,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.rnintroscreen:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.rnintroscreen:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.rnintroscreen:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.rnintroscreen:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.rnintroscreen:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.rnintroscreen:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.rnintroscreen:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.rnintroscreen:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.beyou.beautytips:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.beyou.beautytips:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.beyou.beautytips:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.beyou.beautytips:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.beyou.beautytips:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.beyou.beautytips:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.beyou.beautytips:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.beyou.beautytips:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -6516,7 +6492,7 @@ containing a value of this type.
             0x7f0100bc, 0x7f0100bd, 0x7f0100be, 0x7f0100bf
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6528,11 +6504,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:arrowHeadLength
+          @attr name com.beyou.beautytips:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6544,11 +6520,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:arrowShaftLength
+          @attr name com.beyou.beautytips:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6560,11 +6536,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:barLength
+          @attr name com.beyou.beautytips:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#color}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6575,11 +6551,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:color
+          @attr name com.beyou.beautytips:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6591,11 +6567,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:drawableSize
+          @attr name com.beyou.beautytips:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6607,11 +6583,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:gapBetweenBars
+          @attr name com.beyou.beautytips:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6621,11 +6597,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:spinBars
+          @attr name com.beyou.beautytips:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6637,7 +6613,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:thickness
+          @attr name com.beyou.beautytips:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FontFamily.
@@ -6646,12 +6622,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderAuthority com.rnintroscreen:fontProviderAuthority}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderCerts com.rnintroscreen:fontProviderCerts}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.rnintroscreen:fontProviderFetchStrategy}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.rnintroscreen:fontProviderFetchTimeout}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderPackage com.rnintroscreen:fontProviderPackage}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderQuery com.rnintroscreen:fontProviderQuery}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderAuthority com.beyou.beautytips:fontProviderAuthority}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderCerts com.beyou.beautytips:fontProviderCerts}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.beyou.beautytips:fontProviderFetchStrategy}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.beyou.beautytips:fontProviderFetchTimeout}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderPackage com.beyou.beautytips:fontProviderPackage}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderQuery com.beyou.beautytips:fontProviderQuery}</code></td><td></td></tr>
            </table>
            @see #FontFamily_fontProviderAuthority
            @see #FontFamily_fontProviderCerts
@@ -6665,7 +6641,7 @@ containing a value of this type.
             0x7f0100c4, 0x7f0100c5
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontProviderAuthority}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontProviderAuthority}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6675,21 +6651,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:fontProviderAuthority
+          @attr name com.beyou.beautytips:fontProviderAuthority
         */
         public static final int FontFamily_fontProviderAuthority = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontProviderCerts}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontProviderCerts}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:fontProviderCerts
+          @attr name com.beyou.beautytips:fontProviderCerts
         */
         public static final int FontFamily_fontProviderCerts = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontProviderFetchStrategy}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontProviderFetchStrategy}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6702,11 +6678,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>blocking</code></td><td>0</td><td></td></tr>
 <tr><td><code>async</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:fontProviderFetchStrategy
+          @attr name com.beyou.beautytips:fontProviderFetchStrategy
         */
         public static final int FontFamily_fontProviderFetchStrategy = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontProviderFetchTimeout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontProviderFetchTimeout}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6724,11 +6700,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>forever</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:fontProviderFetchTimeout
+          @attr name com.beyou.beautytips:fontProviderFetchTimeout
         */
         public static final int FontFamily_fontProviderFetchTimeout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontProviderPackage}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontProviderPackage}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6738,11 +6714,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:fontProviderPackage
+          @attr name com.beyou.beautytips:fontProviderPackage
         */
         public static final int FontFamily_fontProviderPackage = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontProviderQuery}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontProviderQuery}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6752,7 +6728,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:fontProviderQuery
+          @attr name com.beyou.beautytips:fontProviderQuery
         */
         public static final int FontFamily_fontProviderQuery = 2;
         /** Attributes that can be used with a FontFamilyFont.
@@ -6764,9 +6740,9 @@ containing a value of this type.
            <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
            <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_font com.rnintroscreen:font}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontStyle com.rnintroscreen:fontStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontWeight com.rnintroscreen:fontWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_font com.beyou.beautytips:font}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontStyle com.beyou.beautytips:fontStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontWeight com.beyou.beautytips:fontWeight}</code></td><td></td></tr>
            </table>
            @see #FontFamilyFont_android_font
            @see #FontFamilyFont_android_fontStyle
@@ -6798,17 +6774,17 @@ containing a value of this type.
         */
         public static final int FontFamilyFont_android_fontWeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#font}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#font}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:font
+          @attr name com.beyou.beautytips:font
         */
         public static final int FontFamilyFont_font = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontStyle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontStyle}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
@@ -6821,11 +6797,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>italic</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:fontStyle
+          @attr name com.beyou.beautytips:fontStyle
         */
         public static final int FontFamilyFont_fontStyle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontWeight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontWeight}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
@@ -6835,7 +6811,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:fontWeight
+          @attr name com.beyou.beautytips:fontWeight
         */
         public static final int FontFamilyFont_fontWeight = 5;
         /** Attributes that can be used with a GenericDraweeHierarchy.
@@ -6844,31 +6820,31 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.rnintroscreen:actualImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.rnintroscreen:backgroundImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.rnintroscreen:fadeDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.rnintroscreen:failureImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.rnintroscreen:failureImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.rnintroscreen:overlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.rnintroscreen:placeholderImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.rnintroscreen:placeholderImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.rnintroscreen:pressedStateOverlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.rnintroscreen:progressBarAutoRotateInterval}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.rnintroscreen:progressBarImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.rnintroscreen:progressBarImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.rnintroscreen:retryImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.rnintroscreen:retryImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.rnintroscreen:roundAsCircle}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.rnintroscreen:roundBottomLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.rnintroscreen:roundBottomRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.rnintroscreen:roundTopLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.rnintroscreen:roundTopRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.rnintroscreen:roundWithOverlayColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.rnintroscreen:roundedCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.rnintroscreen:roundingBorderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.rnintroscreen:roundingBorderPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.rnintroscreen:roundingBorderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.rnintroscreen:viewAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.beyou.beautytips:actualImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.beyou.beautytips:backgroundImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.beyou.beautytips:fadeDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.beyou.beautytips:failureImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.beyou.beautytips:failureImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.beyou.beautytips:overlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.beyou.beautytips:placeholderImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.beyou.beautytips:placeholderImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.beyou.beautytips:pressedStateOverlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.beyou.beautytips:progressBarAutoRotateInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.beyou.beautytips:progressBarImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.beyou.beautytips:progressBarImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.beyou.beautytips:retryImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.beyou.beautytips:retryImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.beyou.beautytips:roundAsCircle}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.beyou.beautytips:roundBottomLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.beyou.beautytips:roundBottomRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.beyou.beautytips:roundTopLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.beyou.beautytips:roundTopRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.beyou.beautytips:roundWithOverlayColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.beyou.beautytips:roundedCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.beyou.beautytips:roundingBorderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.beyou.beautytips:roundingBorderPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.beyou.beautytips:roundingBorderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.beyou.beautytips:viewAspectRatio}</code></td><td></td></tr>
            </table>
            @see #GenericDraweeHierarchy_actualImageScaleType
            @see #GenericDraweeHierarchy_backgroundImage
@@ -6906,7 +6882,7 @@ containing a value of this type.
             0x7f0100e1
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actualImageScaleType}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actualImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -6926,21 +6902,21 @@ containing a value of this type.
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:actualImageScaleType
+          @attr name com.beyou.beautytips:actualImageScaleType
         */
         public static final int GenericDraweeHierarchy_actualImageScaleType = 11;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#backgroundImage}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#backgroundImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:backgroundImage
+          @attr name com.beyou.beautytips:backgroundImage
         */
         public static final int GenericDraweeHierarchy_backgroundImage = 12;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fadeDuration}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fadeDuration}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -6950,21 +6926,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:fadeDuration
+          @attr name com.beyou.beautytips:fadeDuration
         */
         public static final int GenericDraweeHierarchy_fadeDuration = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#failureImage}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#failureImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:failureImage
+          @attr name com.beyou.beautytips:failureImage
         */
         public static final int GenericDraweeHierarchy_failureImage = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#failureImageScaleType}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#failureImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -6984,31 +6960,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:failureImageScaleType
+          @attr name com.beyou.beautytips:failureImageScaleType
         */
         public static final int GenericDraweeHierarchy_failureImageScaleType = 7;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#overlayImage}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#overlayImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:overlayImage
+          @attr name com.beyou.beautytips:overlayImage
         */
         public static final int GenericDraweeHierarchy_overlayImage = 13;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#placeholderImage}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#placeholderImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:placeholderImage
+          @attr name com.beyou.beautytips:placeholderImage
         */
         public static final int GenericDraweeHierarchy_placeholderImage = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#placeholderImageScaleType}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#placeholderImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7028,21 +7004,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:placeholderImageScaleType
+          @attr name com.beyou.beautytips:placeholderImageScaleType
         */
         public static final int GenericDraweeHierarchy_placeholderImageScaleType = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#pressedStateOverlayImage}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#pressedStateOverlayImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:pressedStateOverlayImage
+          @attr name com.beyou.beautytips:pressedStateOverlayImage
         */
         public static final int GenericDraweeHierarchy_pressedStateOverlayImage = 14;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#progressBarAutoRotateInterval}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#progressBarAutoRotateInterval}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7052,21 +7028,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:progressBarAutoRotateInterval
+          @attr name com.beyou.beautytips:progressBarAutoRotateInterval
         */
         public static final int GenericDraweeHierarchy_progressBarAutoRotateInterval = 10;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#progressBarImage}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#progressBarImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:progressBarImage
+          @attr name com.beyou.beautytips:progressBarImage
         */
         public static final int GenericDraweeHierarchy_progressBarImage = 8;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#progressBarImageScaleType}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#progressBarImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7086,21 +7062,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:progressBarImageScaleType
+          @attr name com.beyou.beautytips:progressBarImageScaleType
         */
         public static final int GenericDraweeHierarchy_progressBarImageScaleType = 9;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#retryImage}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#retryImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:retryImage
+          @attr name com.beyou.beautytips:retryImage
         */
         public static final int GenericDraweeHierarchy_retryImage = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#retryImageScaleType}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#retryImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7120,11 +7096,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:retryImageScaleType
+          @attr name com.beyou.beautytips:retryImageScaleType
         */
         public static final int GenericDraweeHierarchy_retryImageScaleType = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundAsCircle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundAsCircle}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7134,11 +7110,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundAsCircle
+          @attr name com.beyou.beautytips:roundAsCircle
         */
         public static final int GenericDraweeHierarchy_roundAsCircle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundBottomLeft}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundBottomLeft}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7148,11 +7124,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundBottomLeft
+          @attr name com.beyou.beautytips:roundBottomLeft
         */
         public static final int GenericDraweeHierarchy_roundBottomLeft = 20;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundBottomRight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundBottomRight}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7162,11 +7138,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundBottomRight
+          @attr name com.beyou.beautytips:roundBottomRight
         */
         public static final int GenericDraweeHierarchy_roundBottomRight = 19;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundTopLeft}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundTopLeft}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7176,11 +7152,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundTopLeft
+          @attr name com.beyou.beautytips:roundTopLeft
         */
         public static final int GenericDraweeHierarchy_roundTopLeft = 17;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundTopRight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundTopRight}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7190,11 +7166,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundTopRight
+          @attr name com.beyou.beautytips:roundTopRight
         */
         public static final int GenericDraweeHierarchy_roundTopRight = 18;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundWithOverlayColor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundWithOverlayColor}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7205,11 +7181,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundWithOverlayColor
+          @attr name com.beyou.beautytips:roundWithOverlayColor
         */
         public static final int GenericDraweeHierarchy_roundWithOverlayColor = 21;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundedCornerRadius}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundedCornerRadius}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7221,11 +7197,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundedCornerRadius
+          @attr name com.beyou.beautytips:roundedCornerRadius
         */
         public static final int GenericDraweeHierarchy_roundedCornerRadius = 16;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundingBorderColor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundingBorderColor}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7236,11 +7212,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundingBorderColor
+          @attr name com.beyou.beautytips:roundingBorderColor
         */
         public static final int GenericDraweeHierarchy_roundingBorderColor = 23;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundingBorderPadding}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundingBorderPadding}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7252,11 +7228,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundingBorderPadding
+          @attr name com.beyou.beautytips:roundingBorderPadding
         */
         public static final int GenericDraweeHierarchy_roundingBorderPadding = 24;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#roundingBorderWidth}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#roundingBorderWidth}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7268,11 +7244,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:roundingBorderWidth
+          @attr name com.beyou.beautytips:roundingBorderWidth
         */
         public static final int GenericDraweeHierarchy_roundingBorderWidth = 22;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#viewAspectRatio}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#viewAspectRatio}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -7282,7 +7258,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:viewAspectRatio
+          @attr name com.beyou.beautytips:viewAspectRatio
         */
         public static final int GenericDraweeHierarchy_viewAspectRatio = 1;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7296,10 +7272,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.rnintroscreen:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.rnintroscreen:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.rnintroscreen:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.rnintroscreen:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.beyou.beautytips:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.beyou.beautytips:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.beyou.beautytips:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.beyou.beautytips:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7347,17 +7323,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:divider
+          @attr name com.beyou.beautytips:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7369,11 +7345,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:dividerPadding
+          @attr name com.beyou.beautytips:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7383,11 +7359,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:measureWithLargestChild
+          @attr name com.beyou.beautytips:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7402,7 +7378,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:showDividers
+          @attr name com.beyou.beautytips:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -7541,10 +7517,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.rnintroscreen:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.rnintroscreen:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.rnintroscreen:actionViewClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_alphabeticModifiers com.rnintroscreen:alphabeticModifiers}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.beyou.beautytips:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.beyou.beautytips:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.beyou.beautytips:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_alphabeticModifiers com.beyou.beautytips:alphabeticModifiers}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -7558,12 +7534,12 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_contentDescription com.rnintroscreen:contentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_iconTint com.rnintroscreen:iconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_iconTintMode com.rnintroscreen:iconTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_numericModifiers com.rnintroscreen:numericModifiers}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.rnintroscreen:showAsAction}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_tooltipText com.rnintroscreen:tooltipText}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_contentDescription com.beyou.beautytips:contentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_iconTint com.beyou.beautytips:iconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_iconTintMode com.beyou.beautytips:iconTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_numericModifiers com.beyou.beautytips:numericModifiers}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.beyou.beautytips:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_tooltipText com.beyou.beautytips:tooltipText}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -7598,17 +7574,17 @@ containing a value of this type.
             0x7f0100ec, 0x7f0100ed, 0x7f0100ee
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actionLayout
+          @attr name com.beyou.beautytips:actionLayout
         */
         public static final int MenuItem_actionLayout = 16;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7618,11 +7594,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:actionProviderClass
+          @attr name com.beyou.beautytips:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 18;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7632,11 +7608,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:actionViewClass
+          @attr name com.beyou.beautytips:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 17;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#alphabeticModifiers}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#alphabeticModifiers}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7653,7 +7629,7 @@ containing a value of this type.
 <tr><td><code>SYM</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:alphabeticModifiers
+          @attr name com.beyou.beautytips:alphabeticModifiers
         */
         public static final int MenuItem_alphabeticModifiers = 13;
         /**
@@ -7735,7 +7711,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentDescription}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentDescription}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7745,11 +7721,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentDescription
+          @attr name com.beyou.beautytips:contentDescription
         */
         public static final int MenuItem_contentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#iconTint}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#iconTint}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7760,11 +7736,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:iconTint
+          @attr name com.beyou.beautytips:iconTint
         */
         public static final int MenuItem_iconTint = 21;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#iconTintMode}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#iconTintMode}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7781,11 +7757,11 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:iconTintMode
+          @attr name com.beyou.beautytips:iconTintMode
         */
         public static final int MenuItem_iconTintMode = 22;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#numericModifiers}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#numericModifiers}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7802,11 +7778,11 @@ containing a value of this type.
 <tr><td><code>SYM</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:numericModifiers
+          @attr name com.beyou.beautytips:numericModifiers
         */
         public static final int MenuItem_numericModifiers = 14;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7822,11 +7798,11 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:showAsAction
+          @attr name com.beyou.beautytips:showAsAction
         */
         public static final int MenuItem_showAsAction = 15;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#tooltipText}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#tooltipText}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7836,7 +7812,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:tooltipText
+          @attr name com.beyou.beautytips:tooltipText
         */
         public static final int MenuItem_tooltipText = 20;
         /** Attributes that can be used with a MenuView.
@@ -7852,8 +7828,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.rnintroscreen:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.rnintroscreen:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.beyou.beautytips:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.beyou.beautytips:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -7913,7 +7889,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -7923,17 +7899,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:preserveIconSpacing
+          @attr name com.beyou.beautytips:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:subMenuArrow
+          @attr name com.beyou.beautytips:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a PopupWindow.
@@ -7944,7 +7920,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.rnintroscreen:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.beyou.beautytips:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -7966,7 +7942,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -7976,7 +7952,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:overlapAnchor
+          @attr name com.beyou.beautytips:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -7985,7 +7961,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.rnintroscreen:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.beyou.beautytips:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -7993,7 +7969,7 @@ containing a value of this type.
             0x7f0100f2
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8003,7 +7979,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:state_above_anchor
+          @attr name com.beyou.beautytips:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8012,8 +7988,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.rnintroscreen:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.rnintroscreen:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.beyou.beautytips:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.beyou.beautytips:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8022,7 +7998,7 @@ containing a value of this type.
             0x7f0100f3, 0x7f0100f4
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8034,11 +8010,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:paddingBottomNoButtons
+          @attr name com.beyou.beautytips:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8050,7 +8026,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:paddingTopNoTitle
+          @attr name com.beyou.beautytips:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a SearchView.
@@ -8063,19 +8039,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.rnintroscreen:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.rnintroscreen:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.rnintroscreen:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.rnintroscreen:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.rnintroscreen:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.rnintroscreen:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.rnintroscreen:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.rnintroscreen:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.rnintroscreen:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.rnintroscreen:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.rnintroscreen:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.rnintroscreen:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.rnintroscreen:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.beyou.beautytips:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.beyou.beautytips:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.beyou.beautytips:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.beyou.beautytips:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.beyou.beautytips:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.beyou.beautytips:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.beyou.beautytips:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.beyou.beautytips:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.beyou.beautytips:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.beyou.beautytips:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.beyou.beautytips:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.beyou.beautytips:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.beyou.beautytips:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -8127,27 +8103,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:closeIcon
+          @attr name com.beyou.beautytips:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:commitIcon
+          @attr name com.beyou.beautytips:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8157,21 +8133,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:defaultQueryHint
+          @attr name com.beyou.beautytips:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:goIcon
+          @attr name com.beyou.beautytips:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8181,31 +8157,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:iconifiedByDefault
+          @attr name com.beyou.beautytips:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:layout
+          @attr name com.beyou.beautytips:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:queryBackground
+          @attr name com.beyou.beautytips:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8215,57 +8191,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:queryHint
+          @attr name com.beyou.beautytips:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:searchHintIcon
+          @attr name com.beyou.beautytips:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:searchIcon
+          @attr name com.beyou.beautytips:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:submitBackground
+          @attr name com.beyou.beautytips:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:suggestionRowLayout
+          @attr name com.beyou.beautytips:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:voiceIcon
+          @attr name com.beyou.beautytips:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SimpleDraweeView.
@@ -8274,8 +8250,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.rnintroscreen:actualImageResource}</code></td><td></td></tr>
-           <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.rnintroscreen:actualImageUri}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.beyou.beautytips:actualImageResource}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.beyou.beautytips:actualImageUri}</code></td><td></td></tr>
            </table>
            @see #SimpleDraweeView_actualImageResource
            @see #SimpleDraweeView_actualImageUri
@@ -8284,17 +8260,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010102, 0x7f010103
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actualImageResource}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actualImageResource}
           attribute's value can be found in the {@link #SimpleDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:actualImageResource
+          @attr name com.beyou.beautytips:actualImageResource
         */
         public static final int SimpleDraweeView_actualImageResource = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#actualImageUri}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#actualImageUri}
           attribute's value can be found in the {@link #SimpleDraweeView} array.
 
 
@@ -8304,7 +8280,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:actualImageUri
+          @attr name com.beyou.beautytips:actualImageUri
         */
         public static final int SimpleDraweeView_actualImageUri = 0;
         /** Attributes that can be used with a Spinner.
@@ -8317,7 +8293,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.rnintroscreen:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.beyou.beautytips:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -8354,13 +8330,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:popupTheme
+          @attr name com.beyou.beautytips:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -8372,17 +8348,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.rnintroscreen:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.rnintroscreen:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.rnintroscreen:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.rnintroscreen:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.rnintroscreen:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.rnintroscreen:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.rnintroscreen:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.rnintroscreen:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.rnintroscreen:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.rnintroscreen:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.rnintroscreen:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.beyou.beautytips:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.beyou.beautytips:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.beyou.beautytips:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.beyou.beautytips:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.beyou.beautytips:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.beyou.beautytips:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.beyou.beautytips:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.beyou.beautytips:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.beyou.beautytips:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.beyou.beautytips:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.beyou.beautytips:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -8424,7 +8400,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8434,11 +8410,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:showText
+          @attr name com.beyou.beautytips:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8448,11 +8424,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:splitTrack
+          @attr name com.beyou.beautytips:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8464,11 +8440,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:switchMinWidth
+          @attr name com.beyou.beautytips:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8480,21 +8456,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:switchPadding
+          @attr name com.beyou.beautytips:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:switchTextAppearance
+          @attr name com.beyou.beautytips:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8506,11 +8482,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:thumbTextPadding
+          @attr name com.beyou.beautytips:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8521,11 +8497,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:thumbTint
+          @attr name com.beyou.beautytips:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8542,21 +8518,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:thumbTintMode
+          @attr name com.beyou.beautytips:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#track}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:track
+          @attr name com.beyou.beautytips:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8567,11 +8543,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:trackTint
+          @attr name com.beyou.beautytips:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8588,7 +8564,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:trackTintMode
+          @attr name com.beyou.beautytips:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TextAppearance.
@@ -8608,8 +8584,8 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_fontFamily com.rnintroscreen:fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.rnintroscreen:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_fontFamily com.beyou.beautytips:fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.beyou.beautytips:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_fontFamily
            @see #TextAppearance_android_shadowColor
@@ -8698,7 +8674,7 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#fontFamily}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#fontFamily}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
@@ -8708,18 +8684,18 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:fontFamily
+          @attr name com.beyou.beautytips:fontFamily
         */
         public static final int TextAppearance_fontFamily = 12;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.rnintroscreen:textAllCaps
+          @attr name com.beyou.beautytips:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 11;
         /** Attributes that can be used with a TextStyle.
@@ -8831,33 +8807,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.rnintroscreen:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.rnintroscreen:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.rnintroscreen:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.rnintroscreen:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.rnintroscreen:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.rnintroscreen:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.rnintroscreen:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.rnintroscreen:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.rnintroscreen:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.rnintroscreen:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.rnintroscreen:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.rnintroscreen:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.rnintroscreen:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.rnintroscreen:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.rnintroscreen:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.rnintroscreen:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.rnintroscreen:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.rnintroscreen:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.rnintroscreen:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.rnintroscreen:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.rnintroscreen:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.rnintroscreen:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.rnintroscreen:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.rnintroscreen:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.rnintroscreen:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.rnintroscreen:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.rnintroscreen:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.beyou.beautytips:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.beyou.beautytips:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.beyou.beautytips:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.beyou.beautytips:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.beyou.beautytips:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.beyou.beautytips:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.beyou.beautytips:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.beyou.beautytips:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.beyou.beautytips:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.beyou.beautytips:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.beyou.beautytips:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.beyou.beautytips:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.beyou.beautytips:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.beyou.beautytips:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.beyou.beautytips:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.beyou.beautytips:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.beyou.beautytips:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.beyou.beautytips:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.beyou.beautytips:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.beyou.beautytips:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.beyou.beautytips:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.beyou.beautytips:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.beyou.beautytips:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.beyou.beautytips:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.beyou.beautytips:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.beyou.beautytips:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.beyou.beautytips:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -8912,7 +8888,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8925,11 +8901,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:buttonGravity
+          @attr name com.beyou.beautytips:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8939,21 +8915,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:collapseContentDescription
+          @attr name com.beyou.beautytips:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:collapseIcon
+          @attr name com.beyou.beautytips:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8965,11 +8941,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetEnd
+          @attr name com.beyou.beautytips:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8981,11 +8957,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetEndWithActions
+          @attr name com.beyou.beautytips:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8997,11 +8973,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetLeft
+          @attr name com.beyou.beautytips:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9013,11 +8989,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetRight
+          @attr name com.beyou.beautytips:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9029,11 +9005,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetStart
+          @attr name com.beyou.beautytips:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9045,21 +9021,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:contentInsetStartWithNavigation
+          @attr name com.beyou.beautytips:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:logo
+          @attr name com.beyou.beautytips:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9069,11 +9045,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:logoDescription
+          @attr name com.beyou.beautytips:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9085,11 +9061,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:maxButtonHeight
+          @attr name com.beyou.beautytips:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9099,31 +9075,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:navigationContentDescription
+          @attr name com.beyou.beautytips:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:navigationIcon
+          @attr name com.beyou.beautytips:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:popupTheme
+          @attr name com.beyou.beautytips:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9133,21 +9109,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:subtitle
+          @attr name com.beyou.beautytips:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:subtitleTextAppearance
+          @attr name com.beyou.beautytips:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9158,11 +9134,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:subtitleTextColor
+          @attr name com.beyou.beautytips:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#title}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9172,11 +9148,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:title
+          @attr name com.beyou.beautytips:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9188,11 +9164,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:titleMargin
+          @attr name com.beyou.beautytips:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9204,11 +9180,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:titleMarginBottom
+          @attr name com.beyou.beautytips:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9220,11 +9196,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:titleMarginEnd
+          @attr name com.beyou.beautytips:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9236,11 +9212,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:titleMarginStart
+          @attr name com.beyou.beautytips:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9252,11 +9228,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:titleMarginTop
+          @attr name com.beyou.beautytips:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9268,21 +9244,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:titleMargins
+          @attr name com.beyou.beautytips:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:titleTextAppearance
+          @attr name com.beyou.beautytips:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9293,7 +9269,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:titleTextColor
+          @attr name com.beyou.beautytips:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -9304,9 +9280,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.rnintroscreen:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.rnintroscreen:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.rnintroscreen:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.beyou.beautytips:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.beyou.beautytips:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.beyou.beautytips:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -9331,7 +9307,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9343,11 +9319,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:paddingEnd
+          @attr name com.beyou.beautytips:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9359,17 +9335,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:paddingStart
+          @attr name com.beyou.beautytips:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.rnintroscreen:theme
+          @attr name com.beyou.beautytips:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -9379,8 +9355,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.rnintroscreen:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.rnintroscreen:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.beyou.beautytips:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.beyou.beautytips:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -9396,7 +9372,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -9407,11 +9383,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:backgroundTint
+          @attr name com.beyou.beautytips:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -9428,7 +9404,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:backgroundTintMode
+          @attr name com.beyou.beautytips:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
@@ -9472,12 +9448,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_auxiliary_view_position com.rnintroscreen:com_facebook_auxiliary_view_position}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_foreground_color com.rnintroscreen:com_facebook_foreground_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_horizontal_alignment com.rnintroscreen:com_facebook_horizontal_alignment}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_id com.rnintroscreen:com_facebook_object_id}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_type com.rnintroscreen:com_facebook_object_type}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_style com.rnintroscreen:com_facebook_style}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_auxiliary_view_position com.beyou.beautytips:com_facebook_auxiliary_view_position}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_foreground_color com.beyou.beautytips:com_facebook_foreground_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_horizontal_alignment com.beyou.beautytips:com_facebook_horizontal_alignment}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_id com.beyou.beautytips:com_facebook_object_id}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_type com.beyou.beautytips:com_facebook_object_type}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_style com.beyou.beautytips:com_facebook_style}</code></td><td></td></tr>
            </table>
            @see #com_facebook_like_view_com_facebook_auxiliary_view_position
            @see #com_facebook_like_view_com_facebook_foreground_color
@@ -9491,7 +9467,7 @@ containing a value of this type.
             0x7f010129, 0x7f01012a
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_auxiliary_view_position}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_auxiliary_view_position}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -9505,11 +9481,11 @@ containing a value of this type.
 <tr><td><code>inline</code></td><td>1</td><td></td></tr>
 <tr><td><code>top</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:com_facebook_auxiliary_view_position
+          @attr name com.beyou.beautytips:com_facebook_auxiliary_view_position
         */
         public static final int com_facebook_like_view_com_facebook_auxiliary_view_position = 4;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_foreground_color}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_foreground_color}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -9520,11 +9496,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:com_facebook_foreground_color
+          @attr name com.beyou.beautytips:com_facebook_foreground_color
         */
         public static final int com_facebook_like_view_com_facebook_foreground_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_horizontal_alignment}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_horizontal_alignment}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -9538,11 +9514,11 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>1</td><td></td></tr>
 <tr><td><code>right</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:com_facebook_horizontal_alignment
+          @attr name com.beyou.beautytips:com_facebook_horizontal_alignment
         */
         public static final int com_facebook_like_view_com_facebook_horizontal_alignment = 5;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_object_id}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_object_id}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -9552,11 +9528,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:com_facebook_object_id
+          @attr name com.beyou.beautytips:com_facebook_object_id
         */
         public static final int com_facebook_like_view_com_facebook_object_id = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_object_type}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_object_type}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -9570,11 +9546,11 @@ containing a value of this type.
 <tr><td><code>open_graph</code></td><td>1</td><td></td></tr>
 <tr><td><code>page</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:com_facebook_object_type
+          @attr name com.beyou.beautytips:com_facebook_object_type
         */
         public static final int com_facebook_like_view_com_facebook_object_type = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_style}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_style}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -9588,7 +9564,7 @@ containing a value of this type.
 <tr><td><code>button</code></td><td>1</td><td></td></tr>
 <tr><td><code>box_count</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:com_facebook_style
+          @attr name com.beyou.beautytips:com_facebook_style
         */
         public static final int com_facebook_like_view_com_facebook_style = 3;
         /** Attributes that can be used with a com_facebook_login_view.
@@ -9597,10 +9573,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_confirm_logout com.rnintroscreen:com_facebook_confirm_logout}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_login_text com.rnintroscreen:com_facebook_login_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_logout_text com.rnintroscreen:com_facebook_logout_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_tooltip_mode com.rnintroscreen:com_facebook_tooltip_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_confirm_logout com.beyou.beautytips:com_facebook_confirm_logout}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_login_text com.beyou.beautytips:com_facebook_login_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_logout_text com.beyou.beautytips:com_facebook_logout_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_tooltip_mode com.beyou.beautytips:com_facebook_tooltip_mode}</code></td><td></td></tr>
            </table>
            @see #com_facebook_login_view_com_facebook_confirm_logout
            @see #com_facebook_login_view_com_facebook_login_text
@@ -9611,7 +9587,7 @@ containing a value of this type.
             0x7f01012b, 0x7f01012c, 0x7f01012d, 0x7f01012e
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_confirm_logout}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_confirm_logout}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -9621,11 +9597,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:com_facebook_confirm_logout
+          @attr name com.beyou.beautytips:com_facebook_confirm_logout
         */
         public static final int com_facebook_login_view_com_facebook_confirm_logout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_login_text}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_login_text}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -9635,11 +9611,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:com_facebook_login_text
+          @attr name com.beyou.beautytips:com_facebook_login_text
         */
         public static final int com_facebook_login_view_com_facebook_login_text = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_logout_text}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_logout_text}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -9649,11 +9625,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:com_facebook_logout_text
+          @attr name com.beyou.beautytips:com_facebook_logout_text
         */
         public static final int com_facebook_login_view_com_facebook_logout_text = 2;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_tooltip_mode}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_tooltip_mode}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -9667,7 +9643,7 @@ containing a value of this type.
 <tr><td><code>display_always</code></td><td>1</td><td></td></tr>
 <tr><td><code>never_display</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:com_facebook_tooltip_mode
+          @attr name com.beyou.beautytips:com_facebook_tooltip_mode
         */
         public static final int com_facebook_login_view_com_facebook_tooltip_mode = 3;
         /** Attributes that can be used with a com_facebook_profile_picture_view.
@@ -9676,8 +9652,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_is_cropped com.rnintroscreen:com_facebook_is_cropped}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_preset_size com.rnintroscreen:com_facebook_preset_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_is_cropped com.beyou.beautytips:com_facebook_is_cropped}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_preset_size com.beyou.beautytips:com_facebook_preset_size}</code></td><td></td></tr>
            </table>
            @see #com_facebook_profile_picture_view_com_facebook_is_cropped
            @see #com_facebook_profile_picture_view_com_facebook_preset_size
@@ -9686,7 +9662,7 @@ containing a value of this type.
             0x7f01012f, 0x7f010130
         };
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_is_cropped}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_is_cropped}
           attribute's value can be found in the {@link #com_facebook_profile_picture_view} array.
 
 
@@ -9696,11 +9672,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.rnintroscreen:com_facebook_is_cropped
+          @attr name com.beyou.beautytips:com_facebook_is_cropped
         */
         public static final int com_facebook_profile_picture_view_com_facebook_is_cropped = 1;
         /**
-          <p>This symbol is the offset where the {@link com.rnintroscreen.R.attr#com_facebook_preset_size}
+          <p>This symbol is the offset where the {@link com.beyou.beautytips.R.attr#com_facebook_preset_size}
           attribute's value can be found in the {@link #com_facebook_profile_picture_view} array.
 
 
@@ -9714,7 +9690,7 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>-3</td><td></td></tr>
 <tr><td><code>large</code></td><td>-4</td><td></td></tr>
 </table>
-          @attr name com.rnintroscreen:com_facebook_preset_size
+          @attr name com.beyou.beautytips:com_facebook_preset_size
         */
         public static final int com_facebook_profile_picture_view_com_facebook_preset_size = 0;
     };

@@ -36,10 +36,13 @@ export default class Hair extends Component {
     return(
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
+      <ImageBackground
+      source={require('../imgs/back1.jpg')}
+      style={styles.backImage}>
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Split_Ends")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#3F51B5',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -54,7 +57,7 @@ export default class Hair extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Dandruff")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#03A9F4',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -69,7 +72,7 @@ export default class Hair extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Grey_Hair")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#009688',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -84,7 +87,7 @@ export default class Hair extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Hair_Conditioning")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#8BC34A',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -99,7 +102,7 @@ export default class Hair extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Hair_Loss")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#FFEB3B',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -111,6 +114,11 @@ export default class Hair extends Component {
           </View>
       </View>
       </TouchableOpacity>
+
+
+
+      </ImageBackground>
+
 
 
           </View>
@@ -156,6 +164,10 @@ export default class Hair extends Component {
         height: 180,
         alignItems: 'center',
         justifyContent: 'center',
+      },
+      backImage:{
+        flex:1,
+        width:'100%'
       },
       ScrollView:{
         width:'100%'

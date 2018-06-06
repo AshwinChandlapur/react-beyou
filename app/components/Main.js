@@ -12,10 +12,10 @@ import {
   TouchableHighlight,
   TouchableOpacity,
   BackAndroid,
-  BackHandler
+  BackHandler,
+  Linking
 } from "react-native";
 import { CardViewWithImage } from 'react-native-simple-card-view'
-import Card_one from "./Card_one";
 import Face from "./Cards/Face";
 import Hair from "./Cards/Hair";
 import Skin from "./Cards/Skin";
@@ -244,6 +244,30 @@ export default class Main extends Component {
 
                     </ImageBackground>
                     </TouchableOpacity>
+
+
+                    <TouchableOpacity onPress={ ()=>{ Linking.openURL('https://play.google.com/store/apps/details?id=com.beyou.beautytips')}} style={styles.cardImages}>
+                    <ImageBackground
+                    source={require('./imgs/main_image.jpg')}
+                    style={styles.cardImages}>
+                    <View style={{backgroundColor: 'rgba(0,0,0,.6)',
+                    alignItems:'center',
+                    justifyContent:'center'}}>
+
+                    <View style={{border:1,
+                      borderWidth: 2,
+                      borderColor: '#FFFFFF',
+                      alignItems:'center',
+                      padding:5}}>
+                      <Text style={{ color: '#fff', fontSize: 48,fontFamily:'sans-serif-condensed' }}>
+                      Rate Us!
+                      </Text>
+
+                      </View>
+                      </View>
+
+                      </ImageBackground>
+                      </TouchableOpacity>
 
 
 

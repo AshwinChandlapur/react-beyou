@@ -38,11 +38,13 @@ export default class Face extends Component {
     return(
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
+      <ImageBackground
+      source={require('../imgs/back1.jpg')}
+      style={styles.backImage}>
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Fair_Skin")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#3F51B5',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
-
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
           <View style={{border:1,
             borderWidth: 2,
             borderColor: '#FFFFFF',
@@ -54,9 +56,10 @@ export default class Face extends Component {
       </View>
       </TouchableOpacity>
 
+
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Dark_Lips")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#03A9F4',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -71,7 +74,7 @@ export default class Face extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("BlackHeads")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#009688',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -86,7 +89,7 @@ export default class Face extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Face_Cleanser")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#8BC34A',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -101,7 +104,7 @@ export default class Face extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Blemishes")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#FFEB3B',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -117,7 +120,7 @@ export default class Face extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Face_Scrub")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#FF9800',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -132,7 +135,7 @@ export default class Face extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Acne")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#795548',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -147,7 +150,7 @@ export default class Face extends Component {
 
       <TouchableOpacity onPress={() => this.props.navigation.navigate("Teeth_Whitening")} style={styles.cardImages}>
       <View style={styles.category}>
-          <View style={{backgroundColor:'#607D8B',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
+          <View style={{flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
           <View style={{border:1,
             borderWidth: 2,
@@ -159,6 +162,14 @@ export default class Face extends Component {
           </View>
       </View>
       </TouchableOpacity>
+
+      </ImageBackground>
+
+
+
+
+
+
 
 
           </View>
@@ -204,6 +215,10 @@ export default class Face extends Component {
         height: 180,
         alignItems: 'center',
         justifyContent: 'center',
+      },
+      backImage:{
+        flex:1,
+        width:'100%'
       },
       ScrollView:{
         width:'100%'
