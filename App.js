@@ -43,6 +43,10 @@ import Nails from "./app/components/Arms&Feet/Nails.js";
 import Tan_Removal from "./app/components/Arms&Feet/Tan_Removal.js";
 import Underarms from "./app/components/Arms&Feet/Underarms.js";
 
+import Heat from "./app/components/Skin/Heat.js";
+import Stretch_Marks from "./app/components/Skin/Stretch_Marks.js";
+import Warts from "./app/components/Skin/Warts.js";
+
 import Card_one from "./app/components/Card_one";
 
 /*const instructions = Platform.select({
@@ -264,6 +268,24 @@ export default App = StackNavigator({
     screen: Underarms,
     navigationOptions: {
       title: "Underarms"
+    }
+  },
+  Heat:{
+    screen: Heat,
+    navigationOptions: {
+      title: "Heat"
+    }
+  },
+  Stretch_Marks:{
+    screen: Stretch_Marks,
+    navigationOptions: {
+      title: "Stretch_Marks"
+    }
+  },
+  Warts:{
+    screen: Warts,
+    navigationOptions: {
+      title: "Warts"
     }
   },
 });

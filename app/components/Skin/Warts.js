@@ -26,8 +26,28 @@ export default class Warts extends Component {
       <Swiper navigation={this.props.navigation}>
         {/* First screen */}
         <View style={styles.slide}>
-          <Text style={styles.header}></Text>
-          <Text style={styles.text}></Text>
+          <Text style={styles.header}>Twice a day, scrape the whitish mush off the inside of banana peel, and apply it to your wart.
+
+Wash your hands well afterwards to keep the warts from spreading.
+</Text>
+          <Text style={styles.text}>
+          Repeat until the wart is gone.</Text>
+        </View>
+        {/* First screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>Crush up ¼ cup or so of fresh, well-rinsed, basil leaves until they are mushy and “juicy.” Apply to the wart, cover with a bandage or clean cloth, and reapply daily until the wart is gone, about 1-2 weeks.</Text>
+        </View>
+        {/* First screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>Pull the head off of a dandelion and rub the milk onto the wart, and cover it with a bandage.
+
+Do this twice daily until the wart is gone.</Text>
+        </View>
+        {/* First screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>File away the wart if you can, and then cover it thoroughly in a thick layer of honey and wrap a piece of cloth around it.
+
+Leave it like this for 24 hours, changing the bandage and reapplying the honey daily.</Text>
         </View>
 
 

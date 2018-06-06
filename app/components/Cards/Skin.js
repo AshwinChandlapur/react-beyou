@@ -14,8 +14,11 @@ import {
 } from "react-native";
 import { CardViewWithImage } from 'react-native-simple-card-view';
 import Card_one from "../Card_one.js";
+import Heat from "../Skin/Heat.js";
+import Warts from "../Skin/Warts.js";
+import Stretch_Marks from "../Skin/Stretch_Marks.js";
 import { StackNavigator } from "react-navigation";
-export default class Eyes extends Component {
+export default class Skin extends Component {
 
   //to disable Status Bar
   componentDidMount() {
@@ -32,7 +35,7 @@ export default class Eyes extends Component {
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Heat")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#3F51B5',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -47,7 +50,7 @@ export default class Eyes extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Stretch_Marks")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#03A9F4',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -62,7 +65,7 @@ export default class Eyes extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Warts")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#009688',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -128,7 +131,7 @@ export default class Eyes extends Component {
     });
 
     const App = StackNavigator({
-      Eyes: { screen: Eyes }
+      Skin: { screen: Skin }
     });
 
-    AppRegistry.registerComponent("Eyes", () => Eyes);
+    AppRegistry.registerComponent("Skin", () => Skin);
