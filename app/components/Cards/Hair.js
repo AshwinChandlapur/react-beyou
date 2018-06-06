@@ -163,8 +163,7 @@ export default class Hair extends Component {
     });
 
     const App = StackNavigator({
-      Hair: { screen: Hair },
-      Card_one: { screen: Card_one }
+      Hair: { screen: Hair }
     });
 
     AppRegistry.registerComponent("Hair", () => Hair);

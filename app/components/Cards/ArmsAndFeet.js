@@ -13,8 +13,11 @@ import {
   TouchableOpacity
 } from "react-native";
 import { CardViewWithImage } from 'react-native-simple-card-view';
-import Card_one from "../Card_one.js";
 import { StackNavigator } from "react-navigation";
+import DryAndRoughHands from "../Arms&Feet/DryAndRoughHands.js";
+import Nails from "../Arms&Feet/Nails.js";
+import Tan_Removal from "../Arms&Feet/Tan_Removal.js";
+import Underarms from "../Arms&Feet/Underarms.js";
 export default class ArmsAndFeet extends Component {
 
   //to disable Status Bar
@@ -32,7 +35,7 @@ export default class ArmsAndFeet extends Component {
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Dark_Circles")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Underarms")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#3F51B5',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -47,7 +50,7 @@ export default class ArmsAndFeet extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Card_one")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("DryAndRoughHands")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#03A9F4',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -62,7 +65,7 @@ export default class ArmsAndFeet extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Puffiness")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Tan_Removal")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#009688',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -77,7 +80,7 @@ export default class ArmsAndFeet extends Component {
       </View>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={() => this.props.navigation.navigate("Eyebrows")} style={styles.cardImages}>
+      <TouchableOpacity onPress={() => this.props.navigation.navigate("Nails")} style={styles.cardImages}>
       <View style={styles.category}>
           <View style={{backgroundColor:'#8BC34A',flex:1,width:'100%',alignItems:'center',justifyContent:'center'}}>
 
@@ -141,8 +144,7 @@ export default class ArmsAndFeet extends Component {
     });
 
     const App = StackNavigator({
-      ArmsAndFeet: { screen: ArmsAndFeet },
-      Card_one: { screen: Card_one },
+      ArmsAndFeet: { screen: ArmsAndFeet }
     });
 
     AppRegistry.registerComponent("ArmsAndFeet", () => ArmsAndFeet);

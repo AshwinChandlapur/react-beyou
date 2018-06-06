@@ -38,6 +38,11 @@ import Eyebrows from "./app/components/Eyes/Eyebrows.js";
 import Puffiness from "./app/components/Eyes/Puffiness.js";
 import Sunken_Eyes from "./app/components/Eyes/Sunken_Eyes.js";
 
+import DryAndRoughHands from "./app/components/Arms&Feet/DryAndRoughHands.js";
+import Nails from "./app/components/Arms&Feet/Nails.js";
+import Tan_Removal from "./app/components/Arms&Feet/Tan_Removal.js";
+import Underarms from "./app/components/Arms&Feet/Underarms.js";
+
 import Card_one from "./app/components/Card_one";
 
 /*const instructions = Platform.select({
@@ -235,6 +240,30 @@ export default App = StackNavigator({
     screen: Sunken_Eyes,
     navigationOptions: {
       title: "Sunken_Eyes"
+    }
+  },
+  DryAndRoughHands:{
+    screen: DryAndRoughHands,
+    navigationOptions: {
+      title: "DryAndRoughHands"
+    }
+  },
+  Nails:{
+    screen: Nails,
+    navigationOptions: {
+      title: "Nails"
+    }
+  },
+  Tan_Removal:{
+    screen: Tan_Removal,
+    navigationOptions: {
+      title: "Tan_Removal"
+    }
+  },
+  Underarms:{
+    screen: Underarms,
+    navigationOptions: {
+      title: "Underarms"
     }
   },
 });

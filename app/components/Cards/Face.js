@@ -21,7 +21,6 @@ import Blemishes from "../Face/Blemishes.js";
 import Face_Cleanser from "../Face/Face_Cleanser.js";
 import Face_Scrub from "../Face/Face_Scrub.js";
 import Teeth_Whitening from "../Face/Teeth_Whitening.js";
-import Card_one from "../Card_one.js";
 import { StackNavigator } from "react-navigation";
 export default class Face extends Component {
 
@@ -212,8 +211,7 @@ export default class Face extends Component {
     });
 
     const App = StackNavigator({
-      Face: { screen: Face },
-      Card_one: { screen: Card_one },
+      Face: { screen: Face }
     });
 
     AppRegistry.registerComponent("Face", () => Face);

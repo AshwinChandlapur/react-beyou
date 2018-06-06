@@ -128,8 +128,7 @@ export default class Eyes extends Component {
     });
 
     const App = StackNavigator({
-      Eyes: { screen: Eyes },
-      Card_one: { screen: Card_one }
+      Eyes: { screen: Eyes }
     });
 
     AppRegistry.registerComponent("Eyes", () => Eyes);

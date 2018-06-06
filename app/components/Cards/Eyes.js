@@ -13,7 +13,7 @@ import {
   TouchableOpacity
 } from "react-native";
 import { CardViewWithImage } from 'react-native-simple-card-view';
-import Card_one from "../Card_one.js";
+
 import Beautiful_Eyes from "../Eyes/Beautiful_Eyes.js";
 import Dark_Circles from "../Eyes/Dark_Circles.js";
 import Eyebrows from "../Eyes/Eyebrows.js";
@@ -164,8 +164,7 @@ export default class Skin extends Component {
     });
 
     const App = StackNavigator({
-      Skin: { screen: Skin },
-      Card_one: { screen: Card_one }
+      Skin: { screen: Skin }
     });
 
     AppRegistry.registerComponent("Skin", () => Skin);

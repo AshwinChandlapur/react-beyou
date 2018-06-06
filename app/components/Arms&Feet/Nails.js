@@ -26,11 +26,37 @@ export default class Nails extends Component {
       <Swiper navigation={this.props.navigation}>
         {/* First screen */}
         <View style={styles.slide}>
-          <Text style={styles.header}></Text>
-          <Text style={styles.text}></Text>
+          <Text style={styles.header}>Olive oil is a natural and proven home remedy for providing shine to your nails. </Text>
+          <Text style={styles.text}>Massaging with warm olive oil on nails would do all the work.</Text>
         </View>
+        {/* First screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>
+For whiter and clearer nails, lemon juice or already squeezed lemon is perfect.</Text>
+        </View>
+        {/* First screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>Petroleum jelly also helps in gaining shiny nails.
 
+Just rub Vaseline or any other petroleum jelly on your nails after taking a bath or before going to bath, for nourishing them</Text>
+        </View>
+        {/* First screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>Butter sounds odd, but it is the best remedy.
 
+Use melted butter for getting natural shiny nails.</Text>
+        </View>
+        {/* First screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>Though, fish oil is good for health, but it also happens to be good for your nails.
+
+It is a wonderful way to treat nails at home, especially in winters.</Text>
+        </View>
+        {/* First screen */}
+        <View style={styles.slide}>
+          <Text style={styles.header}>Avocado & rosewater are two great things that can be applied to get pink nails at home.</Text>
+        </View>
+        
       </Swiper>
     );
   }
