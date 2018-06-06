@@ -10,7 +10,9 @@ import {
   ImageBackground,
   Alert,
   TouchableHighlight,
-  TouchableOpacity
+  TouchableOpacity,
+  BackAndroid,
+  BackHandler
 } from "react-native";
 import { CardViewWithImage } from 'react-native-simple-card-view'
 import Card_one from "./Card_one";
@@ -63,17 +65,29 @@ export default class Main extends Component {
   componentDidMount() {
     StatusBar.setHidden(true);
   }
+
+  componentWillMount() {
+      BackHandler.addEventListener('hardwareBackPress', this.backPressed);
+  }
+
+  componentWillUnmount() {
+      BackHandler.removeEventListener('hardwareBackPress', this.backPressed);
+  }
+
+  backPressed = () => {
+      BackAndroid.exitApp();
+      return true;
+  }
+
   //To disable Toolbar
   static navigationOptions = {
     header: null ,
   };
 
-
-
-
-
   render() {
     const { navigate } = this.props.navigation;
+
+    {/*BackAndroid.exitApp();*/}
     return(
       <ScrollView style = {styles.ScrollView}>
       <View  style={styles.container}>
@@ -340,13 +354,11 @@ export default class Main extends Component {
 
     const App = StackNavigator({
       Main: { screen: Main },
-      Card_one: { screen: Card_one },
       Face: { screen: Face },
       Hair: { screen: Hair },
       Skin: { screen: Skin },
       Eyes: { screen: Eyes },
-      ArmsAndFeet: { screen: ArmsAndFeet },
-      Boiler:{screen:Boiler}
+      ArmsAndFeet: { screen: ArmsAndFeet }
     });
 
     AppRegistry.registerComponent("Main", () => Main);

@@ -67,6 +67,9 @@ class Home extends Component<{}> {
   componentDidMount() {
     SplashScreen.hide();
   }
+
+
+
   render() {
     return (
       <View style={styles.container}>
